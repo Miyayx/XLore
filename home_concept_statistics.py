@@ -15,6 +15,10 @@ INSTANCE_INFOBOX = os.path.join(PATH, "xlore.instance.infobox.ttl")
 TAXONOMY = os.path.join(PATH, "xlore.taxonomy.ttl")
 INSTANCE_REFERENCE = os.path.join(PATH, "xlore.instance.reference.ttl")
 
+def get_category():
+    import wiki_category_crawler
+    return wiki_category_crawler.main()
+
 def get_top_concepts(fn):
     result = set()
     labels = set()
@@ -98,13 +102,15 @@ def taxonomy_stat(cons, fn):
     return i_type, i_sub, i_related, i_ins
 
 if __name__=="__main__":
-    top = get_top_concepts(CONCEPT_LIST)
-    top_sub = get_sub_concepts(top, TAXONOMY)
+    top_sub, sub_sub = get_category()
+    #top = get_top_concepts(CONCEPT_LIST)
+    top = top_sub.keys()
+    #top_sub = get_sub_concepts(top, TAXONOMY)
     subs = []
     for v in top_sub.values():
         subs += v
     subs = set(subs)
-    sub_sub = get_sub_concepts(subs, TAXONOMY)
+    #sub_sub = get_sub_concepts(subs, TAXONOMY)
     cons = [] 
     cons += top
     cons += list(subs)
@@ -119,10 +125,6 @@ if __name__=="__main__":
     print "sub class:",sub_class
     print "related class:",related_class
     print "instance:",instance
-    for i,v in instance.items():
-        if i not in top and v < 40:
-            cons.remove(i)
-    print "cons num:",len(cons)
     prop = property_stat(cons, INSTANCE_INFOBOX)
     print "property"
     #print "property",prop
