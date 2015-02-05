@@ -79,7 +79,7 @@ if __name__=="__main__":
     print "domain:",domain
     print "range:",range
     print "ins:",ins
-    with open('property-statistics.txt','w') as f:
+    with open('data/property-statistics.txt','w') as f:
         for i in props:
             f.write("%s^^%s^^%s^^%d^^%d^^%d**\n"%(i, label[i], ttype.get(i,0), domain.get(i,0), range.get(i,0), ins.get(i,0)))
 

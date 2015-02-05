@@ -128,7 +128,7 @@ if __name__=="__main__":
     prop = property_stat(cons, INSTANCE_INFOBOX)
     print "property"
     #print "property",prop
-    with open('concept-statistics.txt','w') as f:
+    with open('data/concept-statistics.txt','w') as f:
         f.write("level^^id^^label^^Super_Class_id^^Super_Class_label^^Type^^Sub_Classes^^Related_Classes^^Properties^^Instances\n")
         for i in top:
             if i in cons:

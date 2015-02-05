@@ -129,7 +129,7 @@ if __name__=="__main__":
     print "property",prop
     related_ins =  related_instances_stat(ins, INSTANCE_REFERENCE)
     print "related instance:",related_ins
-    with open('instance-statistics.txt','w') as f:
+    with open('data/instance-statistics.txt','w') as f:
         for i in ins:
             f.write("%s^^%s^^%d^^%d^^%d^^%d^^%d**\n"%(i, label[i], ttype.get(i,0), mention.get(i,0), related_class.get(i,0), prop.get(i,0), related_ins.get(i,0)))
 
