@@ -17,7 +17,11 @@ def main():
     lis = soup.find_all(class_="CategoryTreeLabel")
     for li in lis:
         print li.string
-        page2 = urllib2.urlopen(os.path.join(URL,'wiki/Category:'+li.string)).read()
+        try:
+            page2 = urllib2.urlopen(os.path.join(URL,'wiki/Category:'+li.string)).read()
+        except:
+            print "Error key:",lli.string
+            continue
         soup2 = BeautifulSoup(page2)
         llis = soup2.find_all(class_="CategoryTreeLabel")
         for lli in llis:
