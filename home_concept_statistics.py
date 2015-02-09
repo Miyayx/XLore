@@ -5,10 +5,10 @@ import os
 
 #en_concepts = ['Agriculture','Arts','Chronology','Concepts','Culture','Environment','Geography','Government','Health','History','Humanities','Humans','Language','Law','Life','Mathematics','Matter','Medicine','Nature','People','Politics','Professional studies','Science','Society','Sports','Technology','Thought','Universe']
 #print "en",len(en_concepts)
-ch_concepts = ['人物','自然','文化','体育','社会','历史','地理','科技','娱乐','生活','艺术','经济']
-print "ch",len(ch_concepts)
+#ch_concepts = ['人物','自然','文化','体育','社会','历史','地理','科技','娱乐','生活','艺术','经济']
+#print "ch",len(ch_concepts)
 
-
+fliter_str = ['wikipedia', 'wikiprojects', 'lists', 'mediawiki', 'template', 'user', 'portal', 'categories', 'articles', 'pages', 'by'] 
 PATH = "/home/xlore/Xlore/etc/ttl/"
 CONCEPT_LIST = os.path.join(PATH, "xlore.concept.list.ttl")
 INSTANCE_INFOBOX = os.path.join(PATH, "xlore.instance.infobox.ttl")
@@ -18,6 +18,44 @@ INSTANCE_REFERENCE = os.path.join(PATH, "xlore.instance.reference.ttl")
 def get_category():
     import wiki_category_crawler
     return wiki_category_crawler.main()
+
+def get_uri(fn, top_sub, sub_sub):
+    result = set()
+    top = top_sub.keys()
+    subs = []
+    for v in top_sub.values():
+        subs += v
+    subs = set(subs)
+    cons = [] 
+    cons += top
+    cons += list(subs)
+    for v in sub_sub.values():
+        cons += v
+    label_uri = {}
+
+    for line in open(fn):
+        if "rdfs:label" in line:
+                label = line.split('"')[1]
+                if label in cons:
+                    i = line[1:line.index('>')]
+                    label_uri[label] = i
+    top_sub2 = {}
+    sub_sub2 = {}
+    for k, subs in top_sub.items():
+        if label_uri.has_key(k):
+            u = label_uri[k]
+            for s in subs:
+                if label_uri.has_key(s):
+                    top_sub2[u] = top_sub2.get(u, []) + [label_uri[s]]
+
+    for k, subs in sub_sub.items():
+        if label_uri.has_key(k):
+            u = label_uri[k]
+            for s in subs:
+                if label_uri.has_key(s):
+                    sub_sub2[u] = sub_sub2.get(u, []) + [label_uri[s]]
+        
+    return top_sub2, sub_sub2
 
 def get_top_concepts(fn):
     result = set()
@@ -103,6 +141,7 @@ def taxonomy_stat(cons, fn):
 
 if __name__=="__main__":
     top_sub, sub_sub = get_category()
+    top_sub, sub_sub = get_uri(CONCEPT_LIST, top_sub, sub_sub)
     #top = get_top_concepts(CONCEPT_LIST)
     top = top_sub.keys()
     #top_sub = get_sub_concepts(top, TAXONOMY)
@@ -120,6 +159,9 @@ if __name__=="__main__":
     print "cons num:",len(cons)
     label = label_stat(cons, CONCEPT_LIST)
     print "label:",label
+    for k, v in label.items():
+        if not "::;" in v and k in cons:
+            cons.remove(k)
     ttype, sub_class, related_class, instance = taxonomy_stat(cons, TAXONOMY)
     print "type:",ttype
     print "sub class:",sub_class
