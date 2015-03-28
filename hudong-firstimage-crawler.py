@@ -20,6 +20,8 @@ print "end-->"+end
 fo = open(OUTPUT,'a')
 mutex = threading.Lock()
 
+DEFAULT = 'http://www.huimg.cn/entry/images/summary_default250x233.gif'
+
 def crawl(i, title):
     global mutex
 
@@ -27,14 +29,28 @@ def crawl(i, title):
     soup = BeautifulSoup(page)
     #print soup.find(class_='doc-img').find('img')
     imgdoc = soup.find(class_='doc-img')
+    imgurl = None
     if imgdoc:
         imgurl = imgdoc.find('img')['src']
         if not imgurl or len(imgurl) == 0:
             return
-        print imgurl
+        imgurl = imgurl.strip()
+        if imgurl == DEFAULT:
+            imgurl = ""
+            imgdoc = soup.find('div',id='content')
+            if imgdoc:
+               imgdoc = imgdoc.find('img')
+            if imgdoc and 'data-original' in imgdoc:
+                imgurl = imgdoc['data-original'] 
+                if not imgurl or len(imgurl) == 0:
+                    return
+            else:
+                return
         mutex.acquire()
-        fo.write('%s property:hasIcon "%s"@hudong .\n'%(i,imgurl))
-        fo.flush()
+        if imgurl and len(imgurl) > 0:
+            print imgurl
+            fo.write('%s property:hasIcon "%s"@hudong .\n'%(i,imgurl))
+            fo.flush()
         mutex.release()
 
 with open(INSTANCE_LIST) as f:

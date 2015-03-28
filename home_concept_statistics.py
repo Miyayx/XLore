@@ -8,7 +8,6 @@ import os
 #ch_concepts = ['人物','自然','文化','体育','社会','历史','地理','科技','娱乐','生活','艺术','经济']
 #print "ch",len(ch_concepts)
 
-fliter_str = ['wikipedia', 'wikiprojects', 'lists', 'mediawiki', 'template', 'user', 'portal', 'categories', 'articles', 'pages', 'by'] 
 PATH = "/home/xlore/Xlore/etc/ttl/"
 CONCEPT_LIST = os.path.join(PATH, "xlore.concept.list.ttl")
 INSTANCE_INFOBOX = os.path.join(PATH, "xlore.instance.infobox.ttl")
@@ -175,9 +174,13 @@ if __name__=="__main__":
         for i in top:
             if i in cons:
                 f.write("%d^^%s^^%s^^%s^^%s^^%d^^%d^^%d^^%d^^%d**\n"%(1, i, label[i], "null", "Main topic classifications::;Root::;页面分类::;总分类", ttype.get(i,0), sub_class.get(i,0), related_class.get(i,0), prop.get(i,0), instance.get(i,0)))
+                if not top_sub.has_key(i):
+                    continue
                 for j in top_sub[i]:
                     if j in cons:
                         f.write("%d^^%s^^%s^^%s^^%s^^%d^^%d^^%d^^%d^^%d**\n"%(2, j, label[j], i, label[i], ttype.get(j,0), sub_class.get(j,0), related_class.get(j,0), prop.get(j,0), instance.get(j,0)))
+                        if not sub_sub.has_key(j):
+                            continue
                         for k in sub_sub[j]:
                             if k in cons:
                                 f.write("%d^^%s^^%s^^%s^^%s^^%d^^%d^^%d^^%d^^%d**\n"%(3, k, label[k], j, label[j], ttype.get(k,0), sub_class.get(k,0), related_class.get(k,0), prop.get(k,0), instance.get(k,0)))
