@@ -30,23 +30,36 @@ ENAPI = "http://en.wikipedia.org/w/api.php?action=query&titles=File:%s&prop=imag
 
 from firstimage_extractor import *
 import json
+import urllib
+import codecs
 
-INPUT="enwiki-firstimage.dat"
-IMAGE_OUPUT="enwiki.firstimage.dat"
+INPUT="/home/xlore/disk2/raw.wiki/enwiki-firstimage.dat"
+OUTPUT="data/enwiki.firstimage.dat"
 TTL = '/home/xlore/Xlore/etc/ttl/xlore.instance.icon.enwiki.ttl'
 INSTANCE_LIST='/home/xlore/Xlore/etc/ttl/xlore.instance.list.ttl'
+SEPERATOR="\t\t"
 
 class EnwikiFirstImage(FirstImage):
 
     def extract(self):
         title = ""
         image = ""
-        with open(self.output, 'w') as f:
+        with codecs.open(self.output, 'w', 'utf-8') as f:
             for line in open(self.input):
-                title, img = line.split('\t\t')
-                j = urllib.urlopen(ENAPI%img).read()
-                image = json.loads(j)['query']['pages'].values()[0]['imageinfo'][0]['url']
-                f.write('%s\t%s\n'%(title,image))
+                try:
+                    title, img = line.split('\t\t')
+                except:
+                    continue
+                if len(img.strip()) == 0:
+                    continue
+                img = '_'.join(img.split())
+                try:
+                    j = urllib.urlopen(ENAPI%img).read()
+                    image = json.loads(j)['query']['pages'].values()[0]['imageinfo'][0]['url']
+                except:
+                    continue
+                #print title,image
+                f.write('%s\t%s\n'%(title.decode('utf-8'),image ))
                 f.flush()
     
     def generate_ttl(self):
