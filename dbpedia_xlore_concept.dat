@@ -1,0 +1,683 @@
+http://dbpedia.org/ontology/BasketballLeague	http://xlore.org/concept/498565	basketball league@dbpedia	basketball league@en@xlore
+http://dbpedia.org/ontology/SportsLeague	http://xlore.org/concept/355232	sports league@dbpedia	sports league@en@xlore
+http://dbpedia.org/ontology/NaturalEvent	http://xlore.org/concept/1048692	natural event@dbpedia	natural event@en@xlore
+http://dbpedia.org/ontology/Event	http://xlore.org/concept/2109	event@dbpedia	events@en@xlore	事件@zh@xlore
+http://dbpedia.org/ontology/Province	http://xlore.org/concept/46948	province@dbpedia	provinces@en@xlore	省@zh@xlore
+http://dbpedia.org/ontology/GovernmentalAdministrativeRegion	governmental administrative region@dbpedia
+http://dbpedia.org/ontology/LunarCrater	lunar crater@dbpedia
+http://dbpedia.org/ontology/Crater	http://xlore.org/concept/5140	crater@dbpedia	craters@en@xlore	陨石坑@zh@xlore
+http://dbpedia.org/ontology/MotorsportSeason	motorsport season@dbpedia
+http://dbpedia.org/ontology/SportsSeason	http://xlore.org/concept/486774	sports season@dbpedia	sports season@en@xlore
+http://dbpedia.org/ontology/MilitaryPerson	military person@dbpedia
+http://dbpedia.org/ontology/Person	http://xlore.org/concept/37233	person@dbpedia	people@en@xlore	人民@zh@xlore
+http://dbpedia.org/ontology/TimePeriod	time period@dbpedia
+http://dbpedia.org/ontology/AutomobileEngine	http://xlore.org/concept/45392	automobile engine@dbpedia	automobile engines@en@xlore	汽车发动机@zh@xlore
+http://dbpedia.org/ontology/Device	device@dbpedia
+http://dbpedia.org/ontology/Archeologist	Archeologist@dbpedia
+http://dbpedia.org/ontology/Enzyme	http://xlore.org/concept/965	enzyme@dbpedia	enzymes@en@xlore	酶@zh@xlore
+http://dbpedia.org/ontology/Biomolecule	http://xlore.org/concept/62190	Biomolecule@dbpedia	Biomolecules@en@xlore	生物分子@zh@xlore
+http://dbpedia.org/ontology/SongWriter	http://xlore.org/concept/355212	Songwriter@dbpedia	Songwriter@en@xlore
+http://dbpedia.org/ontology/Writer	http://xlore.org/concept/270	writer@dbpedia	writers@en@xlore	作家@zh@xlore
+http://dbpedia.org/ontology/Square	square@dbpedia
+http://dbpedia.org/ontology/ArchitecturalStructure	architectural structure@dbpedia
+http://dbpedia.org/ontology/University	university@dbpedia
+http://dbpedia.org/ontology/EducationalInstitution	http://xlore.org/concept/2353	educational institution@dbpedia	educational institutions@en@xlore	教育机构@zh@xlore
+http://dbpedia.org/ontology/AnatomicalStructure	anatomical structure@dbpedia
+http://dbpedia.org/ontology/TelevisionShow	television show@dbpedia
+http://dbpedia.org/ontology/Work	work@dbpedia
+http://dbpedia.org/ontology/LaunchPad	launch pad@dbpedia
+http://dbpedia.org/ontology/Infrastructure	http://xlore.org/concept/293	infrastructure@dbpedia	infrastructure@en@xlore	基础设施@zh@xlore
+http://dbpedia.org/ontology/CyclingLeague	cycling league@dbpedia
+http://dbpedia.org/ontology/Territory	http://xlore.org/concept/300324	territory@dbpedia	territory@en@xlore
+http://dbpedia.org/ontology/PopulatedPlace	http://xlore.org/concept/38310	populated place@dbpedia	populated places@en@xlore	聚居地@zh@xlore
+http://dbpedia.org/ontology/CurlingLeague	curling league@dbpedia
+http://dbpedia.org/ontology/GatedCommunity	http://xlore.org/concept/711820	Gated community@dbpedia	Gated community@en@xlore
+http://dbpedia.org/ontology/MusicFestival	http://xlore.org/concept/8076	music festival@dbpedia	music festivals@en@xlore	音乐节@zh@xlore
+http://dbpedia.org/ontology/SocietalEvent	societal event@dbpedia
+http://dbpedia.org/ontology/Tax	tax@dbpedia
+http://dbpedia.org/ontology/Racecourse	racecourse@dbpedia
+http://dbpedia.org/ontology/RaceTrack	race track@dbpedia
+http://dbpedia.org/ontology/Dancer	http://xlore.org/concept/54911	dancer@dbpedia	dancers@en@xlore	舞者@zh@xlore
+http://dbpedia.org/ontology/Artist	http://xlore.org/concept/122	artist@dbpedia	artists@en@xlore	艺术家@zh@xlore
+http://dbpedia.org/ontology/IceHockeyPlayer	http://xlore.org/concept/45044	ice hockey player@dbpedia	ice hockey players@en@xlore	冰球运动员@zh@xlore
+http://dbpedia.org/ontology/Athlete	athlete@dbpedia
+http://dbpedia.org/ontology/PublicTransitSystem	public transit system@dbpedia
+http://dbpedia.org/ontology/Organisation	organisation@dbpedia
+http://dbpedia.org/ontology/FootballMatch	football match@dbpedia
+http://dbpedia.org/ontology/SportsEvent	http://xlore.org/concept/1083795	sports event@dbpedia	sports event@en@xlore
+http://dbpedia.org/ontology/MouseGeneLocation	MouseGeneLocation@dbpedia
+http://dbpedia.org/ontology/GeneLocation	GeneLocation@dbpedia
+http://dbpedia.org/ontology/MilitaryConflict	military conflict@dbpedia
+http://dbpedia.org/ontology/StatedResolution	Stated Resolution@dbpedia
+http://dbpedia.org/ontology/WrittenWork	written work@dbpedia
+http://dbpedia.org/ontology/FilmFestival	http://xlore.org/concept/7105	film festival@dbpedia	film festivals@en@xlore	影展@zh@xlore
+http://dbpedia.org/ontology/TheatreDirector	http://xlore.org/concept/31370	Theatre director@dbpedia	Theatre directors@en@xlore	戏剧导演@zh@xlore
+http://dbpedia.org/ontology/Beverage	http://xlore.org/concept/676389	beverage@dbpedia	beverage@en@xlore
+http://dbpedia.org/ontology/Food	http://xlore.org/concept/327	Food@dbpedia	Foods@en@xlore	食品@zh@xlore
+http://dbpedia.org/ontology/SpaceShuttle	space shuttle@dbpedia
+http://dbpedia.org/ontology/MeanOfTransportation	mean of transportation@dbpedia
+http://dbpedia.org/ontology/Prison	http://xlore.org/concept/1520	prison@dbpedia	prisons@en@xlore	监狱@zh@xlore
+http://dbpedia.org/ontology/Building	http://xlore.org/concept/9898	building@dbpedia	building@en@xlore	建筑物@zh@xlore
+http://dbpedia.org/ontology/Archaea	http://xlore.org/concept/384	archaea@dbpedia	archaea@en@xlore	古菌@zh@xlore
+http://dbpedia.org/ontology/Species	http://xlore.org/concept/8360	species@dbpedia	species@en@xlore	物种@zh@xlore
+http://dbpedia.org/ontology/HandballPlayer	http://xlore.org/concept/36745	handball player@dbpedia	handball players@en@xlore	手球运动员@zh@xlore
+http://dbpedia.org/ontology/Religious	religious@dbpedia
+http://dbpedia.org/ontology/Arachnid	http://xlore.org/concept/1083225	arachnid@dbpedia	arachnid@en@xlore
+http://dbpedia.org/ontology/Animal	http://xlore.org/concept/388	animal@dbpedia	animals@en@xlore	动物@zh@xlore
+http://dbpedia.org/ontology/Installment	Installment@dbpedia
+http://dbpedia.org/ontology/Department	http://xlore.org/concept/293583	department@dbpedia	department@en@xlore
+http://dbpedia.org/ontology/Painter	http://xlore.org/concept/197	painter@dbpedia	painters@en@xlore	画家@zh@xlore
+http://dbpedia.org/ontology/LineOfFashion	line of fashion@dbpedia
+http://dbpedia.org/ontology/Park	http://xlore.org/concept/1074	park@dbpedia	parks@en@xlore	公园@zh@xlore
+http://dbpedia.org/ontology/Place	http://xlore.org/concept/60660	place@dbpedia	places@en@xlore	地方@zh@xlore
+http://dbpedia.org/ontology/CyclingTeam	http://xlore.org/concept/947510	cycling team@dbpedia	cycling team@en@xlore
+http://dbpedia.org/ontology/SportsTeam	http://xlore.org/concept/47546	sports team@dbpedia	sports teams@en@xlore	体育队@zh@xlore
+http://dbpedia.org/ontology/GrossDomesticProduct	http://xlore.org/concept/25219	gross domestic product@dbpedia	gross domestic product@en@xlore	国内生产总值@zh@xlore
+http://dbpedia.org/ontology/WaterRide	http://xlore.org/concept/1071450	water ride@dbpedia	water ride@en@xlore
+http://dbpedia.org/ontology/AmusementParkAttraction	amusement park attraction@dbpedia
+http://dbpedia.org/ontology/Cricketer	http://xlore.org/concept/29113	cricketer@dbpedia	cricketers@en@xlore	板球运动员@zh@xlore
+http://dbpedia.org/ontology/FloweringPlant	flowering plant@dbpedia
+http://dbpedia.org/ontology/Plant	http://xlore.org/concept/517	plant@dbpedia	plants@en@xlore	植物@zh@xlore
+http://dbpedia.org/ontology/TelevisionEpisode	http://xlore.org/concept/756576	television episode@dbpedia	television episodes@en@xlore	Television episodes@zh@xlore
+http://dbpedia.org/ontology/Baronet	http://xlore.org/concept/666303	baronet@dbpedia	baronet@en@xlore
+http://dbpedia.org/ontology/BritishRoyalty	http://xlore.org/concept/4590	British royalty@dbpedia	British royalty@en@xlore	英国皇室@zh@xlore
+http://dbpedia.org/ontology/Gnetophytes	Gnetophytes@dbpedia
+http://dbpedia.org/ontology/Jockey	jockey (horse racer)@dbpedia
+http://dbpedia.org/ontology/SportCompetitionResult	results of a sport competition@dbpedia
+http://dbpedia.org/ontology/Tower	http://xlore.org/concept/33155	tower@dbpedia	towers@en@xlore	塔式建筑@zh@xlore
+http://dbpedia.org/ontology/Protein	http://xlore.org/concept/4603	protein@dbpedia	proteins@en@xlore	蛋白质@zh@xlore
+http://dbpedia.org/ontology/HumanGeneLocation	HumanGeneLocation@dbpedia
+http://dbpedia.org/ontology/SpeedwayTeam	http://xlore.org/concept/212079	speedway team@dbpedia	speedway team@en@xlore
+http://dbpedia.org/ontology/ChristianPatriarch	Christian Patriarch@dbpedia
+http://dbpedia.org/ontology/Cleric	cleric@dbpedia
+http://dbpedia.org/ontology/GovernmentType	Government Type@dbpedia
+http://dbpedia.org/ontology/Type	type@dbpedia
+http://dbpedia.org/ontology/Town	http://xlore.org/concept/12482	town@dbpedia	town@en@xlore	城镇社区@zh@xlore
+http://dbpedia.org/ontology/Settlement	http://xlore.org/concept/166	municipality@dbpedia	municipalities@en@xlore	直辖市@zh@xlore
+http://dbpedia.org/ontology/RomanEmperor	http://xlore.org/concept/3552	roman emperor@dbpedia	roman emperors@en@xlore	罗马皇帝@zh@xlore
+http://dbpedia.org/ontology/ReligiousBuilding	http://xlore.org/concept/52005	religious building@dbpedia	religious buildings@en@xlore	宗教建筑物@zh@xlore
+http://dbpedia.org/ontology/MotorcycleRider	motorcycle rider@dbpedia
+http://dbpedia.org/ontology/MotorsportRacer	motorsport racer@dbpedia
+http://dbpedia.org/ontology/ClericalAdministrativeRegion	clerical administrative region@dbpedia
+http://dbpedia.org/ontology/AdministrativeRegion	administrative region@dbpedia
+http://dbpedia.org/ontology/BusCompany	bus company@dbpedia
+http://dbpedia.org/ontology/Company	http://xlore.org/concept/96	company@dbpedia	companies@en@xlore	公司@zh@xlore
+http://dbpedia.org/ontology/PowerStation	http://xlore.org/concept/2958	power station@dbpedia	power stations@en@xlore	发电厂@zh@xlore
+http://dbpedia.org/ontology/Engineer	http://xlore.org/concept/11131	engineer@dbpedia	engineers@en@xlore	工程师@zh@xlore
+http://dbpedia.org/ontology/Birth	birth@dbpedia
+http://dbpedia.org/ontology/PersonalEvent	personal event@dbpedia
+http://dbpedia.org/ontology/Name	http://xlore.org/concept/29378	name@dbpedia	names@en@xlore	名称@zh@xlore
+http://dbpedia.org/ontology/SumoWrestler	http://xlore.org/concept/5200	sumo wrestler@dbpedia	sumo wrestlers@en@xlore	相扑选手@zh@xlore
+http://dbpedia.org/ontology/Wrestler	http://xlore.org/concept/17409	wrestler@dbpedia	wrestlers@en@xlore	摔跤运动员@zh@xlore
+http://dbpedia.org/ontology/FormulaOneRacer	Formula One racer@dbpedia
+http://dbpedia.org/ontology/RacingDriver	http://xlore.org/concept/8365	racing driver@dbpedia	racing drivers@en@xlore	赛车手@zh@xlore
+http://dbpedia.org/ontology/Conifer	http://xlore.org/concept/1196	conifer@dbpedia	conifers@en@xlore	松柏目@zh@xlore
+http://dbpedia.org/ontology/SpeedwayLeague	http://xlore.org/concept/764027	speedway league@dbpedia	speedway league@en@xlore
+http://dbpedia.org/ontology/Instrumentalist	instrumentalist@dbpedia
+http://dbpedia.org/ontology/MusicalArtist	musical artist@dbpedia
+http://dbpedia.org/ontology/Farmer	http://xlore.org/concept/3188	farmer@dbpedia	farmers@en@xlore	农民@zh@xlore
+http://dbpedia.org/ontology/HistoricalSettlement	http://xlore.org/concept/363232	Historical settlement@dbpedia	Historical settlement@en@xlore
+http://dbpedia.org/ontology/VideogamesLeague	videogames league@dbpedia
+http://dbpedia.org/ontology/CricketGround	http://xlore.org/concept/1073990	cricket ground@dbpedia	cricket ground@en@xlore
+http://dbpedia.org/ontology/SportFacility	sport facility@dbpedia
+http://dbpedia.org/ontology/HistoricalDistrict	Historical district@dbpedia
+http://dbpedia.org/ontology/District	district@dbpedia
+http://dbpedia.org/ontology/Locomotive	http://xlore.org/concept/704	locomotive@dbpedia	locomotives@en@xlore	铁路机车@zh@xlore
+http://dbpedia.org/ontology/MotocycleRacer	motocycle racer@dbpedia
+http://dbpedia.org/ontology/GolfTournament	http://xlore.org/concept/14925	golf tournament@dbpedia	golf tournaments@en@xlore	高尔夫球赛事@zh@xlore
+http://dbpedia.org/ontology/Tournament	tournament@dbpedia
+http://dbpedia.org/ontology/MotorcycleRacingLeague	motorcycle racing league@dbpedia
+http://dbpedia.org/ontology/Sales	http://xlore.org/concept/55068	sales@dbpedia	sales@en@xlore	销售手法@zh@xlore
+http://dbpedia.org/ontology/AdultActor	adult (pornographic) actor@dbpedia
+http://dbpedia.org/ontology/Actor	http://xlore.org/concept/5347	actor@dbpedia	actors@en@xlore	演员@zh@xlore
+http://dbpedia.org/ontology/GridironFootballPlayer	http://xlore.org/concept/529667	gridiron football player@dbpedia	gridiron football player@en@xlore
+http://dbpedia.org/ontology/ChristianDoctrine	Christian Doctrine@dbpedia
+http://dbpedia.org/ontology/TopicalConcept	topical concept@dbpedia
+http://dbpedia.org/ontology/Area	http://xlore.org/concept/7791	area@dbpedia	area@en@xlore	面积@zh@xlore
+http://dbpedia.org/ontology/NationalAnthem	http://xlore.org/concept/3474	National anthem@dbpedia	National anthems@en@xlore	国歌@zh@xlore
+http://dbpedia.org/ontology/MusicalWork	musical work@dbpedia
+http://dbpedia.org/ontology/SoccerLeague	soccer league@dbpedia
+http://dbpedia.org/ontology/TeamMember	Team member@dbpedia
+http://dbpedia.org/ontology/RoadJunction	http://xlore.org/concept/740897	road junction@dbpedia	road junction@en@xlore
+http://dbpedia.org/ontology/RouteOfTransportation	route of transportation@dbpedia
+http://dbpedia.org/ontology/Treadmill	Treadmill@dbpedia
+http://dbpedia.org/ontology/Mill	Mill@dbpedia
+http://dbpedia.org/ontology/Brain	http://xlore.org/concept/22695	brain@dbpedia	brain@en@xlore	脑@zh@xlore
+http://dbpedia.org/ontology/ProtohistoricalPeriod	protohistorical period@dbpedia
+http://dbpedia.org/ontology/WomensTennisAssociationTournament	Women's Tennis Association tournament@dbpedia
+http://dbpedia.org/ontology/BusinessPerson	http://xlore.org/concept/7724	businessperson@dbpedia	businesspeople@en@xlore	企业家@zh@xlore
+http://dbpedia.org/ontology/VolleyballCoach	http://xlore.org/concept/38744	volleyball coach@dbpedia	volleyball coaches@en@xlore	排球教练@zh@xlore
+http://dbpedia.org/ontology/Coach	coach@dbpedia
+http://dbpedia.org/ontology/Capital	http://xlore.org/concept/2763	Capital@dbpedia	Capitals@en@xlore	首都@zh@xlore
+http://dbpedia.org/ontology/City	http://xlore.org/concept/12334	city@dbpedia	city@en@xlore	城市社区@zh@xlore
+http://dbpedia.org/ontology/Producer	http://xlore.org/concept/891	Producer@dbpedia	Producers@en@xlore	制作人@zh@xlore
+http://dbpedia.org/ontology/Software	http://xlore.org/concept/656112	software@dbpedia	software@en@xlore
+http://dbpedia.org/ontology/Opera	http://xlore.org/concept/109	opera@dbpedia	opera@en@xlore	歌剧@zh@xlore
+http://dbpedia.org/ontology/LacrossePlayer	http://xlore.org/concept/663586	lacrosse player@dbpedia	lacrosse player@en@xlore
+http://dbpedia.org/ontology/ControlledDesignationOfOriginWine	Controlled designation of origin wine@dbpedia
+http://dbpedia.org/ontology/Wine	http://xlore.org/concept/1532	wine@dbpedia	wine@en@xlore	葡萄酒@zh@xlore
+http://dbpedia.org/ontology/President	http://xlore.org/concept/19	president@dbpedia	presidents@en@xlore	总统@zh@xlore
+http://dbpedia.org/ontology/Politician	http://xlore.org/concept/10065	politician@dbpedia	politicians@en@xlore	政治人物@zh@xlore
+http://dbpedia.org/ontology/TennisPlayer	http://xlore.org/concept/10654	tennis player@dbpedia	tennis players@en@xlore	网球运动员@zh@xlore
+http://dbpedia.org/ontology/DigitalCamera	http://xlore.org/concept/999320	digital camera@dbpedia	digital camera@en@xlore
+http://dbpedia.org/ontology/Camera	http://xlore.org/concept/11144	camera@dbpedia	cameras@en@xlore	照相机@zh@xlore
+http://dbpedia.org/ontology/Band	Band@dbpedia
+http://dbpedia.org/ontology/Regency	regency@dbpedia
+http://dbpedia.org/ontology/Country	http://xlore.org/concept/423	country@dbpedia	countries@en@xlore	国家@zh@xlore
+http://dbpedia.org/ontology/BullFighter	http://xlore.org/concept/209237	bullfighter@dbpedia	bullfighter@en@xlore
+http://dbpedia.org/ontology/Fencer	http://xlore.org/concept/6201	fencer@dbpedia	fencers@en@xlore	击剑运动员@zh@xlore
+http://dbpedia.org/ontology/HorseRace	http://xlore.org/concept/1030709	horse race@dbpedia	horse race@en@xlore
+http://dbpedia.org/ontology/Race	race@dbpedia
+http://dbpedia.org/ontology/Fish	http://xlore.org/concept/571	fish@dbpedia	fish@en@xlore	鱼类@zh@xlore
+http://dbpedia.org/ontology/Magazine	http://xlore.org/concept/5864	magazine@dbpedia	magazines@en@xlore	杂志@zh@xlore
+http://dbpedia.org/ontology/PeriodicalLiterature	periodical literature@dbpedia
+http://dbpedia.org/ontology/Galaxy	http://xlore.org/concept/6409	galaxy@dbpedia	galaxies@en@xlore	星系@zh@xlore
+http://dbpedia.org/ontology/CelestialBody	celestial body@dbpedia
+http://dbpedia.org/ontology/Manhwa	http://xlore.org/concept/6138	manhwa@dbpedia	manhwa@en@xlore	韩国漫画@zh@xlore
+http://dbpedia.org/ontology/Comics	http://xlore.org/concept/3908	comics@dbpedia	comics@en@xlore	漫画@zh@xlore
+http://dbpedia.org/ontology/OrganisationMember	Organisation member@dbpedia
+http://dbpedia.org/ontology/TelevisionSeason	http://xlore.org/concept/439349	television season@dbpedia	television season@en@xlore
+http://dbpedia.org/ontology/Case	case@dbpedia
+http://dbpedia.org/ontology/UnitOfWork	unit of work@dbpedia
+http://dbpedia.org/ontology/Taxon	taxonomic group@dbpedia
+http://dbpedia.org/ontology/LawFirm	http://xlore.org/concept/5730	law firm@dbpedia	law firms@en@xlore	律师事务所@zh@xlore
+http://dbpedia.org/ontology/WaterwayTunnel	waterway tunnel@dbpedia
+http://dbpedia.org/ontology/Ocean	http://xlore.org/concept/377160	Ocean@dbpedia	Ocean@en@xlore
+http://dbpedia.org/ontology/BodyOfWater	http://xlore.org/concept/6183	body of water@dbpedia	bodies of water@en@xlore	水体@zh@xlore
+http://dbpedia.org/ontology/Airport	http://xlore.org/concept/1286	airport@dbpedia	airports@en@xlore	机场@zh@xlore
+http://dbpedia.org/ontology/Boxer	http://xlore.org/concept/11145	boxer@dbpedia	boxers@en@xlore	拳击运动员@zh@xlore
+http://dbpedia.org/ontology/Fern	http://xlore.org/concept/260818	fern@dbpedia	fern@en@xlore
+http://dbpedia.org/ontology/NarutoCharacter	http://xlore.org/concept/35885	naruto character@dbpedia	naruto characters@en@xlore	火影忍者人物@zh@xlore
+http://dbpedia.org/ontology/FictionalCharacter	http://xlore.org/concept/7331	fictional character@dbpedia	fictional characters@en@xlore	虚构角色@zh@xlore
+http://dbpedia.org/ontology/SoccerPlayer	soccer player@dbpedia
+http://dbpedia.org/ontology/Fashion	http://xlore.org/concept/77	fashion@dbpedia	fashion@en@xlore	时尚@zh@xlore
+http://dbpedia.org/ontology/Island	http://xlore.org/concept/220	island@dbpedia	islands@en@xlore	岛屿@zh@xlore
+http://dbpedia.org/ontology/Openswarm	Open Swarm@dbpedia
+http://dbpedia.org/ontology/Swarm	Swarm@dbpedia
+http://dbpedia.org/ontology/NaturalPlace	natural place@dbpedia
+http://dbpedia.org/ontology/GraveMonument	grave stone or grave monument@dbpedia
+http://dbpedia.org/ontology/Monument	monument@dbpedia
+http://dbpedia.org/ontology/SoapCharacter	soap character@dbpedia
+http://dbpedia.org/ontology/Agglomeration	agglomeration@dbpedia
+http://dbpedia.org/ontology/CollegeCoach	college coach@dbpedia
+http://dbpedia.org/ontology/HumanGene	HumanGene@dbpedia
+http://dbpedia.org/ontology/Gene	http://xlore.org/concept/5262	gene@dbpedia	gene@en@xlore	基因@zh@xlore
+http://dbpedia.org/ontology/Muscle	muscle@dbpedia
+http://dbpedia.org/ontology/InformationAppliance	http://xlore.org/concept/38694	information appliance@dbpedia	information appliances@en@xlore	资讯设备@zh@xlore
+http://dbpedia.org/ontology/Psychologist	http://xlore.org/concept/1847	psychologist@dbpedia	psychologists@en@xlore	心理学家@zh@xlore
+http://dbpedia.org/ontology/Stream	stream@dbpedia
+http://dbpedia.org/ontology/RecordOffice	Record Office@dbpedia
+http://dbpedia.org/ontology/Non-ProfitOrganisation	non-profit organisation@dbpedia
+http://dbpedia.org/ontology/SportsManager	http://xlore.org/concept/696697	sports manager@dbpedia	sports manager@en@xlore
+http://dbpedia.org/ontology/Surfer	http://xlore.org/concept/422450	surfer@dbpedia	surfer@en@xlore
+http://dbpedia.org/ontology/Hospital	http://xlore.org/concept/364324	hospital@dbpedia	hospital@en@xlore
+http://dbpedia.org/ontology/HotSpring	http://xlore.org/concept/136	hot spring@dbpedia	hot springs@en@xlore	温泉@zh@xlore
+http://dbpedia.org/ontology/Chef	http://xlore.org/concept/6809	chef@dbpedia	chefs@en@xlore	厨师@zh@xlore
+http://dbpedia.org/ontology/Philosopher	http://xlore.org/concept/52	philosopher@dbpedia	philosophers@en@xlore	哲学家@zh@xlore
+http://dbpedia.org/ontology/SystemOfLaw	System of law@dbpedia
+http://dbpedia.org/ontology/BiologicalDatabase	http://xlore.org/concept/18062	Biological database@dbpedia	Biological databases@en@xlore	生物资讯资料库@zh@xlore
+http://dbpedia.org/ontology/Database	http://xlore.org/concept/572	Database@dbpedia	Databases@en@xlore	数据库@zh@xlore
+http://dbpedia.org/ontology/Church	http://xlore.org/concept/807237	church@dbpedia	church@en@xlore
+http://dbpedia.org/ontology/Tunnel	http://xlore.org/concept/7067	tunnel@dbpedia	tunnels@en@xlore	隧道@zh@xlore
+http://dbpedia.org/ontology/Rower	http://xlore.org/concept/9950	rower@dbpedia	rowers@en@xlore	赛艇运动员@zh@xlore
+http://dbpedia.org/ontology/Ginkgo	ginkgo@dbpedia
+http://dbpedia.org/ontology/Valley	http://xlore.org/concept/9634	valley@dbpedia	valleys@en@xlore	谷地@zh@xlore
+http://dbpedia.org/ontology/Automobile	http://xlore.org/concept/118	automobile@dbpedia	automobiles@en@xlore	汽车@zh@xlore
+http://dbpedia.org/ontology/Ideology	http://xlore.org/concept/590759	ideology@dbpedia	ideology@en@xlore
+http://dbpedia.org/ontology/SupremeCourtOfTheUnitedStatesCase	Supreme Court of the United States case@dbpedia
+http://dbpedia.org/ontology/LegalCase	Legal Case@dbpedia
+http://dbpedia.org/ontology/Community	http://xlore.org/concept/970547	Community@dbpedia	Community@en@xlore
+http://dbpedia.org/ontology/CanadianFootballTeam	http://xlore.org/concept/490114	canadian football team@dbpedia	canadian football team@en@xlore
+http://dbpedia.org/ontology/RadioStation	http://xlore.org/concept/5569	radio station@dbpedia	radio stations@en@xlore	电台@zh@xlore
+http://dbpedia.org/ontology/Broadcaster	http://xlore.org/concept/614236	broadcaster@dbpedia	broadcaster@en@xlore
+http://dbpedia.org/ontology/Death	http://xlore.org/concept/4108	death@dbpedia	death@en@xlore	死亡@zh@xlore
+http://dbpedia.org/ontology/SoccerManager	soccer manager@dbpedia
+http://dbpedia.org/ontology/Poem	http://xlore.org/concept/965767	poem@dbpedia	poem@en@xlore
+http://dbpedia.org/ontology/Comedian	http://xlore.org/concept/6084	comedian@dbpedia	comedians@en@xlore	喜剧演员@zh@xlore
+http://dbpedia.org/ontology/ComicsCreator	http://xlore.org/concept/52133	comics creator@dbpedia	comics creators@en@xlore	漫画创作者@zh@xlore
+http://dbpedia.org/ontology/Monarch	monarch@dbpedia
+http://dbpedia.org/ontology/Road	http://xlore.org/concept/10570	road@dbpedia	roads@en@xlore	公路@zh@xlore
+http://dbpedia.org/ontology/PlayboyPlaymate	http://xlore.org/concept/23893	Playboy Playmate@dbpedia	Playboy Playmates@en@xlore	玩伴女郎@zh@xlore
+http://dbpedia.org/ontology/TelevisionPersonality	http://xlore.org/concept/531690	television personality@dbpedia	television personality@en@xlore
+http://dbpedia.org/ontology/Volcano	http://xlore.org/concept/320	volcano@dbpedia	volcanoes@en@xlore	火山@zh@xlore
+http://dbpedia.org/ontology/Newspaper	http://xlore.org/concept/2547	newspaper@dbpedia	newspapers@en@xlore	报纸@zh@xlore
+http://dbpedia.org/ontology/AmericanFootballPlayer	american football player@dbpedia
+http://dbpedia.org/ontology/AcademicJournal	http://xlore.org/concept/3801	academic journal@dbpedia	academic journals@en@xlore	学术期刊@zh@xlore
+http://dbpedia.org/ontology/TableTennisPlayer	http://xlore.org/concept/83	table tennis player@dbpedia	table tennis players@en@xlore	乒乓球运动员@zh@xlore
+http://dbpedia.org/ontology/Artwork	artwork@dbpedia
+http://dbpedia.org/ontology/VolleyballPlayer	http://xlore.org/concept/1599	volleyball player@dbpedia	volleyball players@en@xlore	排球运动员@zh@xlore
+http://dbpedia.org/ontology/Sea	http://xlore.org/concept/214	sea@dbpedia	seas@en@xlore	海洋@zh@xlore
+http://dbpedia.org/ontology/BeautyQueen	beauty queen@dbpedia
+http://dbpedia.org/ontology/School	scuola@dbpedia
+http://dbpedia.org/ontology/Region	http://xlore.org/concept/2670	region@dbpedia	regions@en@xlore	地区@zh@xlore
+http://dbpedia.org/ontology/LightNovel	http://xlore.org/concept/10844	light novel@dbpedia	light novels@en@xlore	轻小说@zh@xlore
+http://dbpedia.org/ontology/Novel	http://xlore.org/concept/126	novel@dbpedia	novels@en@xlore	小说@zh@xlore
+http://dbpedia.org/ontology/SiteOfSpecialScientificInterest	http://xlore.org/concept/797924	Site of Special Scientific Interest@dbpedia	Site of Special Scientific Interest@en@xlore
+http://dbpedia.org/ontology/SnookerPlayer	http://xlore.org/concept/7618	snooker player@dbpedia	snooker players@en@xlore	斯诺克运动员@zh@xlore
+http://dbpedia.org/ontology/IceHockeyLeague	http://xlore.org/concept/791764	ice hockey league@dbpedia	ice hockey league@en@xlore
+http://dbpedia.org/ontology/PersonFunction	person function@dbpedia
+http://dbpedia.org/ontology/Entomologist	http://xlore.org/concept/7443	entomologist@dbpedia	entomologists@en@xlore	昆虫学家@zh@xlore
+http://dbpedia.org/ontology/Scientist	http://xlore.org/concept/42	scientist@dbpedia	scientists@en@xlore	科学家@zh@xlore
+http://dbpedia.org/ontology/PoliticalParty	http://xlore.org/concept/7036	political party@dbpedia	political parties@en@xlore	政党@zh@xlore
+http://dbpedia.org/ontology/Presenter	presenter@dbpedia
+http://dbpedia.org/ontology/Watermill	http://xlore.org/concept/476207	Watermill@dbpedia	Watermill@en@xlore
+http://dbpedia.org/ontology/ChartsPlacements	Place in the Music Charts@dbpedia
+http://dbpedia.org/ontology/EthnicGroup	http://xlore.org/concept/3914	ethnic group@dbpedia	ethnic groups@en@xlore	族群@zh@xlore
+http://dbpedia.org/ontology/BaseballTeam	http://xlore.org/concept/1753	baseball team@dbpedia	baseball teams@en@xlore	棒球队@zh@xlore
+http://dbpedia.org/ontology/Holiday	http://xlore.org/concept/46720	holiday@dbpedia	holidays@en@xlore	假日@zh@xlore
+http://dbpedia.org/ontology/Insect	http://xlore.org/concept/33449	insect@dbpedia	insects@en@xlore	昆虫纲@zh@xlore
+http://dbpedia.org/ontology/Mineral	http://xlore.org/concept/397	mineral@dbpedia	minerals@en@xlore	矿物@zh@xlore
+http://dbpedia.org/ontology/ChemicalSubstance	http://xlore.org/concept/1869	chemical substance@dbpedia	chemical substances@en@xlore	化学品@zh@xlore
+http://dbpedia.org/ontology/SoccerClubSeason	soccer club season@dbpedia
+http://dbpedia.org/ontology/SportsTeamSeason	sports team season@dbpedia
+http://dbpedia.org/ontology/Annotation	Annotation@dbpedia
+http://dbpedia.org/ontology/Mosque	mosk@dbpedia
+http://dbpedia.org/ontology/NationalCollegiateAthleticAssociationAthlete	national collegiate athletic association athlete@dbpedia
+http://dbpedia.org/ontology/Referee	referee@dbpedia
+http://dbpedia.org/ontology/Reptile	http://xlore.org/concept/3499	reptile@dbpedia	reptiles@en@xlore	爬行动物@zh@xlore
+http://dbpedia.org/ontology/Satellite	http://xlore.org/concept/8121	Satellite@dbpedia	Satellites@en@xlore	人造卫星@zh@xlore
+http://dbpedia.org/ontology/CanadianFootballPlayer	canadian football player@dbpedia
+http://dbpedia.org/ontology/GovernmentAgency	http://xlore.org/concept/64785	government agency@dbpedia	government agencies@en@xlore	政府机关@zh@xlore
+http://dbpedia.org/ontology/Flag	http://xlore.org/concept/6337	flag@dbpedia	flags@en@xlore	旗帜@zh@xlore
+http://dbpedia.org/ontology/RallyDriver	http://xlore.org/concept/826591	rally driver@dbpedia	rally driver@en@xlore
+http://dbpedia.org/ontology/Bacteria	http://xlore.org/concept/132	bacteria@dbpedia	bacteria@en@xlore	细菌@zh@xlore
+http://dbpedia.org/ontology/Cardinal	cardinal@dbpedia
+http://dbpedia.org/ontology/Mollusca	mollusca@dbpedia
+http://dbpedia.org/ontology/Stadium	stadium@dbpedia
+http://dbpedia.org/ontology/NationalSoccerClub	national soccer club@dbpedia
+http://dbpedia.org/ontology/SoccerClub	soccer club@dbpedia
+http://dbpedia.org/ontology/Museum	http://xlore.org/concept/86	museum@dbpedia	museums@en@xlore	博物馆@zh@xlore
+http://dbpedia.org/ontology/FigureSkater	http://xlore.org/concept/3087	figure skater@dbpedia	figure skaters@en@xlore	花样滑冰运动员@zh@xlore
+http://dbpedia.org/ontology/Manga	http://xlore.org/concept/3294	manga@dbpedia	manga@en@xlore	日本漫画@zh@xlore
+http://dbpedia.org/ontology/College	college@dbpedia
+http://dbpedia.org/ontology/NascarDriver	http://xlore.org/concept/400883	nascar driver@dbpedia	nascar driver@en@xlore
+http://dbpedia.org/ontology/Vein	http://xlore.org/concept/63635	vein@dbpedia	veins@en@xlore	静脉@zh@xlore
+http://dbpedia.org/ontology/Eukaryote	http://xlore.org/concept/123	eukaryote@dbpedia	eukaryotes@en@xlore	真核生物@zh@xlore
+http://dbpedia.org/ontology/Film	movie@dbpedia
+http://dbpedia.org/ontology/WaterPoloPlayer	http://xlore.org/concept/64677	water polo player@dbpedia	water polo players@en@xlore	水球运动员@zh@xlore
+http://dbpedia.org/ontology/SkiArea	ski area@dbpedia
+http://dbpedia.org/ontology/Guitar	http://xlore.org/concept/7213	Guitar@dbpedia	Guitars@en@xlore	吉他@zh@xlore
+http://dbpedia.org/ontology/Instrument	Instrument@dbpedia
+http://dbpedia.org/ontology/Vicar	vicar@dbpedia
+http://dbpedia.org/ontology/Swimmer	http://xlore.org/concept/3460	swimmer@dbpedia	swimmers@en@xlore	游泳运动员@zh@xlore
+http://dbpedia.org/ontology/PrimeMinister	http://xlore.org/concept/8309	prime minister@dbpedia	prime ministers@en@xlore	总理@zh@xlore
+http://dbpedia.org/ontology/Colour	colour@dbpedia
+http://dbpedia.org/ontology/Factory	factory@dbpedia
+http://dbpedia.org/ontology/SnookerChamp	snooker world champion@dbpedia
+http://dbpedia.org/ontology/Ambassador	http://xlore.org/concept/14977	ambassador@dbpedia	ambassadors@en@xlore	大使@zh@xlore
+http://dbpedia.org/ontology/Parliament	http://xlore.org/concept/1006958	parliament@dbpedia	parliament@en@xlore
+http://dbpedia.org/ontology/SnookerWorldRanking	http://xlore.org/concept/6352	snooker world ranking@dbpedia	snooker world rankings@en@xlore	斯诺克职业选手世界排名@zh@xlore
+http://dbpedia.org/ontology/Venue	venue@dbpedia
+http://dbpedia.org/ontology/RadioProgram	http://xlore.org/concept/2435	radio program@dbpedia	radio programs@en@xlore	广播节目@zh@xlore
+http://dbpedia.org/ontology/Royalty	http://xlore.org/concept/10039	royalty@dbpedia	royalty@en@xlore	皇族@zh@xlore
+http://dbpedia.org/ontology/Desert	http://xlore.org/concept/192	Desert@dbpedia	Deserts@en@xlore	沙漠@zh@xlore
+http://dbpedia.org/ontology/BasketballTeam	http://xlore.org/concept/2275	basketball team@dbpedia	basketball teams@en@xlore	篮球队@zh@xlore
+http://dbpedia.org/ontology/ScreenWriter	http://xlore.org/concept/6039	screenwriter@dbpedia	screenwriters@en@xlore	电影编剧@zh@xlore
+http://dbpedia.org/ontology/Lawyer	http://xlore.org/concept/7142	Lawyer@dbpedia	Lawyers@en@xlore	律师@zh@xlore
+http://dbpedia.org/ontology/Planet	http://xlore.org/concept/527	planet@dbpedia	planets@en@xlore	行星@zh@xlore
+http://dbpedia.org/ontology/Deputy	deputy@dbpedia
+http://dbpedia.org/ontology/MovieDirector	Movie director@dbpedia
+http://dbpedia.org/ontology/Family	http://xlore.org/concept/5150	family@dbpedia	family@en@xlore	家庭@zh@xlore
+http://dbpedia.org/ontology/Agent	agent@dbpedia
+http://dbpedia.org/ontology/Gate	http://xlore.org/concept/57277	gate@dbpedia	gates@en@xlore	门 (建筑物)@zh@xlore
+http://dbpedia.org/ontology/YearInSpaceflight	http://xlore.org/concept/405790	year in spaceflight@dbpedia	year in spaceflight@en@xlore
+http://dbpedia.org/ontology/Shrine	http://xlore.org/concept/528725	shrine@dbpedia	shrine@en@xlore
+http://dbpedia.org/ontology/Population	http://xlore.org/concept/4464	population@dbpedia	population@en@xlore	人口@zh@xlore
+http://dbpedia.org/ontology/Village	http://xlore.org/concept/20894	village@dbpedia	villages@en@xlore	村落@zh@xlore
+http://dbpedia.org/ontology/PublicServiceOutput	public service output@dbpedia
+http://dbpedia.org/ontology/PublicService	http://xlore.org/concept/802011	public service@dbpedia	public service@en@xlore
+http://dbpedia.org/ontology/Theatre	http://xlore.org/concept/163	theatre@dbpedia	theatre@en@xlore	戏剧@zh@xlore
+http://dbpedia.org/ontology/Drama	http://xlore.org/concept/260	drama@dbpedia	drama@en@xlore	戏剧@zh@xlore
+http://dbpedia.org/ontology/ProtectedArea	http://xlore.org/concept/49358	protected area@dbpedia	protected areas@en@xlore	保护区@zh@xlore
+http://dbpedia.org/ontology/PenaltyShootOut	penalty shoot-out@dbpedia
+http://dbpedia.org/ontology/Canal	http://xlore.org/concept/186	canal@dbpedia	canals@en@xlore	运河@zh@xlore
+http://dbpedia.org/ontology/Employer	Employer@dbpedia
+http://dbpedia.org/ontology/MusicGenre	http://xlore.org/concept/504976	music genre@dbpedia	music genre@en@xlore
+http://dbpedia.org/ontology/Genre	http://xlore.org/concept/1482	genre@dbpedia	genres@en@xlore	类型@zh@xlore
+http://dbpedia.org/ontology/Year	http://xlore.org/concept/724	year@dbpedia	years@en@xlore	年@zh@xlore
+http://dbpedia.org/ontology/Priest	http://xlore.org/concept/660413	priest@dbpedia	priest@en@xlore
+http://dbpedia.org/ontology/Congressman	congressman@dbpedia
+http://dbpedia.org/ontology/MusicComposer	music composer@dbpedia
+http://dbpedia.org/ontology/Sport	http://xlore.org/concept/180	sport@dbpedia	sports@en@xlore	体育@zh@xlore
+http://dbpedia.org/ontology/Activity	activity@dbpedia
+http://dbpedia.org/ontology/BackScene	back scene@dbpedia
+http://dbpedia.org/ontology/Nerve	http://xlore.org/concept/65316	nerve@dbpedia	nerves@en@xlore	神经@zh@xlore
+http://dbpedia.org/ontology/ComicStrip	http://xlore.org/concept/443126	comic strip@dbpedia	comic strip@en@xlore
+http://dbpedia.org/ontology/SambaSchool	http://xlore.org/concept/474267	samba school@dbpedia	samba school@en@xlore
+http://dbpedia.org/ontology/Hotel	http://xlore.org/concept/32729	hotel@dbpedia	hotels@en@xlore	旅馆@zh@xlore
+http://dbpedia.org/ontology/FashionDesigner	http://xlore.org/concept/7719	fashion designer@dbpedia	fashion designers@en@xlore	时尚设计师@zh@xlore
+http://dbpedia.org/ontology/Library	http://xlore.org/concept/9217	library@dbpedia	libraries@en@xlore	图书馆@zh@xlore
+http://dbpedia.org/ontology/Organ	http://xlore.org/concept/460	Organ@dbpedia	Organs@en@xlore	器官@zh@xlore
+http://dbpedia.org/ontology/Profession	profession@dbpedia
+http://dbpedia.org/ontology/Model	model@dbpedia
+http://dbpedia.org/ontology/Ligament	http://xlore.org/concept/50613	ligament@dbpedia	ligaments@en@xlore	韧带@zh@xlore
+http://dbpedia.org/ontology/CityDistrict	http://xlore.org/concept/340424	city district@dbpedia	city district@en@xlore
+http://dbpedia.org/ontology/Winery	http://xlore.org/concept/825200	winery@dbpedia	winery@en@xlore
+http://dbpedia.org/ontology/NationalFootballLeagueEvent	national football league event@dbpedia
+http://dbpedia.org/ontology/RecordLabel	http://xlore.org/concept/9368	record label@dbpedia	record labels@en@xlore	唱片公司@zh@xlore
+http://dbpedia.org/ontology/MetroStation	subway station@dbpedia
+http://dbpedia.org/ontology/Station	station@dbpedia
+http://dbpedia.org/ontology/VoiceActor	http://xlore.org/concept/9701	voice actor@dbpedia	voice actors@en@xlore	配音员@zh@xlore
+http://dbpedia.org/ontology/Olympics	olympics@dbpedia
+http://dbpedia.org/ontology/CanadianFootballLeague	http://xlore.org/concept/630687	canadian football league@dbpedia	canadian football league@en@xlore
+http://dbpedia.org/ontology/PrehistoricalPeriod	prehistorical period@dbpedia
+http://dbpedia.org/ontology/HistoricalPeriod	historical period@dbpedia
+http://dbpedia.org/ontology/Brewery	brewery@dbpedia
+http://dbpedia.org/ontology/Song	http://xlore.org/concept/119	song@dbpedia	songs@en@xlore	歌曲@zh@xlore
+http://dbpedia.org/ontology/Play	http://xlore.org/concept/403819	play@dbpedia	play@en@xlore
+http://dbpedia.org/ontology/CapitalOfRegion	Capital of region@dbpedia
+http://dbpedia.org/ontology/Album	http://xlore.org/concept/218047	album@dbpedia	album@en@xlore
+http://dbpedia.org/ontology/ComedyGroup	Comedy Group@dbpedia
+http://dbpedia.org/ontology/AthleticsPlayer	athletics player@dbpedia
+http://dbpedia.org/ontology/File	http://xlore.org/concept/37454	file@dbpedia	files@en@xlore	计算机文件@zh@xlore
+http://dbpedia.org/ontology/Document	http://xlore.org/concept/5096	document@dbpedia	documents@en@xlore	文件@zh@xlore
+http://dbpedia.org/ontology/Meeting	http://xlore.org/concept/850296	meeting@dbpedia	meeting@en@xlore
+http://dbpedia.org/ontology/Sculpture	http://xlore.org/concept/196	Sculpture@dbpedia	Sculpture@en@xlore	雕塑@zh@xlore
+http://dbpedia.org/ontology/NuclearPowerStation	Nuclear Power plant@dbpedia
+http://dbpedia.org/ontology/SubMunicipality	http://xlore.org/concept/30342	borough@dbpedia	boroughs@en@xlore	自治市@zh@xlore
+http://dbpedia.org/ontology/Deanery	deanery@dbpedia
+http://dbpedia.org/ontology/Airline	http://xlore.org/concept/5165	airline@dbpedia	airlines@en@xlore	航空公司@zh@xlore
+http://dbpedia.org/ontology/VolleyballLeague	http://xlore.org/concept/855500	volleyball league@dbpedia	volleyball league@en@xlore
+http://dbpedia.org/ontology/Media	media@dbpedia
+http://dbpedia.org/ontology/GrandPrix	Grand Prix@dbpedia
+http://dbpedia.org/ontology/MountainPass	http://xlore.org/concept/1324	mountain pass@dbpedia	mountain passes@en@xlore	山口@zh@xlore
+http://dbpedia.org/ontology/Glacier	http://xlore.org/concept/495	glacier@dbpedia	glaciers@en@xlore	冰川@zh@xlore
+http://dbpedia.org/ontology/Rocket	rocket@dbpedia
+http://dbpedia.org/ontology/Blazon	Blazon@dbpedia
+http://dbpedia.org/ontology/Aristocrat	http://xlore.org/concept/2461	architect@dbpedia	architects@en@xlore	建筑师@zh@xlore
+http://dbpedia.org/ontology/Bird	http://xlore.org/concept/85	bird@dbpedia	birds@en@xlore	鸟类@zh@xlore
+http://dbpedia.org/ontology/GolfPlayer	golf player@dbpedia
+http://dbpedia.org/ontology/BowlingLeague	bowling league@dbpedia
+http://dbpedia.org/ontology/PublicServiceInput	public service input@dbpedia
+http://dbpedia.org/ontology/Saint	http://xlore.org/concept/8487	saint@dbpedia	saints@en@xlore	圣人@zh@xlore
+http://dbpedia.org/ontology/SquashPlayer	http://xlore.org/concept/8567	squash player@dbpedia	squash players@en@xlore	壁球运动员@zh@xlore
+http://dbpedia.org/ontology/PokerPlayer	http://xlore.org/concept/24500	poker player@dbpedia	poker players@en@xlore	扑克选手@zh@xlore
+http://dbpedia.org/ontology/Altitude	altitude@dbpedia
+http://dbpedia.org/ontology/Anime	http://xlore.org/concept/4393	anime@dbpedia	anime@en@xlore	日本动画@zh@xlore
+http://dbpedia.org/ontology/Cartoon	cartoon@dbpedia
+http://dbpedia.org/ontology/Book	http://xlore.org/concept/516701	book@dbpedia	book@en@xlore
+http://dbpedia.org/ontology/Language	http://xlore.org/concept/221	language@dbpedia	language@en@xlore	语言@zh@xlore
+http://dbpedia.org/ontology/Restaurant	http://xlore.org/concept/55516	restaurant@dbpedia	restaurants@en@xlore	餐馆@zh@xlore
+http://dbpedia.org/ontology/GeologicalPeriod	geological period@dbpedia
+http://dbpedia.org/ontology/OldTerritory	old territory@dbpedia
+http://dbpedia.org/ontology/CollectionOfValuables	collection of valuables@dbpedia
+http://dbpedia.org/ontology/Diocese	http://xlore.org/concept/293294	diocese@dbpedia	diocese@en@xlore
+http://dbpedia.org/ontology/Game	http://xlore.org/concept/425	game@dbpedia	games@en@xlore	游戏@zh@xlore
+http://dbpedia.org/ontology/Legislature	http://xlore.org/concept/4341	legislature@dbpedia	legislatures@en@xlore	立法机构@zh@xlore
+http://dbpedia.org/ontology/MovieGenre	movie genre@dbpedia
+http://dbpedia.org/ontology/Egyptologist	http://xlore.org/concept/1041926	egyptologist@dbpedia	egyptologist@en@xlore
+http://dbpedia.org/ontology/Amphibian	http://xlore.org/concept/11608	amphibian@dbpedia	amphibians@en@xlore	两栖类@zh@xlore
+http://dbpedia.org/ontology/GolfLeague	golf league@dbpedia
+http://dbpedia.org/ontology/Pyramid	http://xlore.org/concept/2273	Pyramid@dbpedia	Pyramids@en@xlore	金字塔@zh@xlore
+http://dbpedia.org/ontology/CareerStation	career station@dbpedia
+http://dbpedia.org/ontology/Skyscraper	http://xlore.org/concept/8291	skyscraper@dbpedia	skyscrapers@en@xlore	摩天大楼@zh@xlore
+http://dbpedia.org/ontology/Group	group@dbpedia
+http://dbpedia.org/ontology/ClericalOrder	clerical order@dbpedia
+http://dbpedia.org/ontology/WindMotor	Wind motor@dbpedia
+http://dbpedia.org/ontology/LifeCycleEvent	life cycle event@dbpedia
+http://dbpedia.org/ontology/Drug	http://xlore.org/concept/135	drug@dbpedia	drugs@en@xlore	药物@zh@xlore
+http://dbpedia.org/ontology/NoteworthyPartOfBuilding	Noteworthy part of a building (facade, chimney, etc.)@dbpedia
+http://dbpedia.org/ontology/Train	http://xlore.org/concept/5858	train@dbpedia	trains@en@xlore	铁路列车@zh@xlore
+http://dbpedia.org/ontology/Reference	http://xlore.org/concept/4527	Reference@dbpedia	Reference@en@xlore	参考@zh@xlore
+http://dbpedia.org/ontology/Windmill	http://xlore.org/concept/766080	Windmill@dbpedia	Windmill@en@xlore
+http://dbpedia.org/ontology/BoardGame	http://xlore.org/concept/49216	board game@dbpedia	board games@en@xlore	图版游戏@zh@xlore
+http://dbpedia.org/ontology/BadmintonPlayer	http://xlore.org/concept/914	badminton player@dbpedia	badminton players@en@xlore	羽毛球运动员@zh@xlore
+http://dbpedia.org/ontology/Currency	http://xlore.org/concept/50213	currency@dbpedia	currency@en@xlore	通货@zh@xlore
+http://dbpedia.org/ontology/ProgrammingLanguage	http://xlore.org/concept/496993	programming language@dbpedia	programming language@en@xlore
+http://dbpedia.org/ontology/ChessPlayer	http://xlore.org/concept/4550	chess player@dbpedia	chess players@en@xlore	国际象棋棋手@zh@xlore
+http://dbpedia.org/ontology/RugbyPlayer	rugby player@dbpedia
+http://dbpedia.org/ontology/DartsPlayer	http://xlore.org/concept/1070311	darts player@dbpedia	darts player@en@xlore
+http://dbpedia.org/ontology/Architect	http://xlore.org/concept/2461	architect@dbpedia	architects@en@xlore	建筑师@zh@xlore
+http://dbpedia.org/ontology/Globularswarm	Globular Swarm@dbpedia
+http://dbpedia.org/ontology/HandballLeague	http://xlore.org/concept/519912	handball league@dbpedia	handball league@en@xlore
+http://dbpedia.org/ontology/Dog	http://xlore.org/concept/3687	dog@dbpedia	dogs@en@xlore	狗@zh@xlore
+http://dbpedia.org/ontology/Mammal	http://xlore.org/concept/337	mammal@dbpedia	mammals@en@xlore	哺乳类@zh@xlore
+http://dbpedia.org/ontology/PoliticalFunction	political function@dbpedia
+http://dbpedia.org/ontology/Atoll	http://xlore.org/concept/52666	atoll@dbpedia	atolls@en@xlore	环礁@zh@xlore
+http://dbpedia.org/ontology/Motorcycle	http://xlore.org/concept/6582	motorcycle@dbpedia	motorcycles@en@xlore	摩托车@zh@xlore
+http://dbpedia.org/ontology/Divorce	http://xlore.org/concept/8165	divorce@dbpedia	divorce@en@xlore	离婚@zh@xlore
+http://dbpedia.org/ontology/Port	Port@dbpedia
+http://dbpedia.org/ontology/NetballPlayer	http://xlore.org/concept/215527	netball player@dbpedia	netball player@en@xlore
+http://dbpedia.org/ontology/Statistic	http://xlore.org/concept/251478	statistic@dbpedia	statistic@en@xlore
+http://dbpedia.org/ontology/Prefecture	http://xlore.org/concept/64956	prefecture@dbpedia	prefectures@en@xlore	县@zh@xlore
+http://dbpedia.org/ontology/SpaceMission	http://xlore.org/concept/1055519	space mission@dbpedia	space mission@en@xlore
+http://dbpedia.org/ontology/RailwayLine	σιδηρόδρομος@dbpedia
+http://dbpedia.org/ontology/Sound	http://xlore.org/concept/1858	sound@dbpedia	sound@en@xlore	声音@zh@xlore
+http://dbpedia.org/ontology/CyclingCompetition	http://xlore.org/concept/1072372	cycling competition@dbpedia	cycling competition@en@xlore
+http://dbpedia.org/ontology/Street	http://xlore.org/concept/1515	Street@dbpedia	Streets@en@xlore	街道@zh@xlore
+http://dbpedia.org/ontology/Monastery	http://xlore.org/concept/764	monastery@dbpedia	monasteries@en@xlore	修道院@zh@xlore
+http://dbpedia.org/ontology/RailwayTunnel	σιδηροδρομική σήραγγα@dbpedia
+http://dbpedia.org/ontology/Senator	senator@dbpedia
+http://dbpedia.org/ontology/ChemicalElement	http://xlore.org/concept/374	chemical element@dbpedia	chemical elements@en@xlore	化学元素@zh@xlore
+http://dbpedia.org/ontology/Diploma	diploma@dbpedia
+http://dbpedia.org/ontology/GivenName	http://xlore.org/concept/52765	given name@dbpedia	given names@en@xlore	姓名@zh@xlore
+http://dbpedia.org/ontology/Artery	http://xlore.org/concept/4884	artery@dbpedia	arteries@en@xlore	动脉@zh@xlore
+http://dbpedia.org/ontology/FieldHockeyLeague	http://xlore.org/concept/765934	field hockey league@dbpedia	field hockey league@en@xlore
+http://dbpedia.org/ontology/Archipelago	archipelago@dbpedia
+http://dbpedia.org/ontology/Competition	http://xlore.org/concept/55546	competition@dbpedia	competition@en@xlore	竞争@zh@xlore
+http://dbpedia.org/ontology/TennisTournament	http://xlore.org/concept/1423	tennis tournament@dbpedia	tennis tournaments@en@xlore	网球赛事@zh@xlore
+http://dbpedia.org/ontology/Synagogue	synagog@dbpedia
+http://dbpedia.org/ontology/Project	http://xlore.org/concept/483336	project@dbpedia	project@en@xlore
+http://dbpedia.org/ontology/FootballLeagueSeason	football league season@dbpedia
+http://dbpedia.org/ontology/Judge	http://xlore.org/concept/2376	judge@dbpedia	judges@en@xlore	法官@zh@xlore
+http://dbpedia.org/ontology/Ship	http://xlore.org/concept/7060	ship@dbpedia	ships@en@xlore	船舰@zh@xlore
+http://dbpedia.org/ontology/Award	http://xlore.org/concept/810895	award@dbpedia	award@en@xlore
+http://dbpedia.org/ontology/Cemetery	http://xlore.org/concept/2513	cemetery@dbpedia	cemeteries@en@xlore	墓葬建筑@zh@xlore
+http://dbpedia.org/ontology/FormerMunicipality	one-time municipality@dbpedia
+http://dbpedia.org/ontology/Municipality	http://xlore.org/concept/166	municipality@dbpedia	municipalities@en@xlore	直辖市@zh@xlore
+http://dbpedia.org/ontology/MartialArtist	http://xlore.org/concept/181	martial artist@dbpedia	martial artists@en@xlore	武术家@zh@xlore
+http://dbpedia.org/ontology/HollywoodCartoon	hollywood cartoon@dbpedia
+http://dbpedia.org/ontology/Musical	http://xlore.org/concept/61555	musical@dbpedia	musicals@en@xlore	音乐剧作品@zh@xlore
+http://dbpedia.org/ontology/BeachVolleyballPlayer	http://xlore.org/concept/1706	beach volleyball player@dbpedia	beach volleyball players@en@xlore	沙滩排球运动员@zh@xlore
+http://dbpedia.org/ontology/NCAATeamSeason	national collegiate athletic association team season@dbpedia
+http://dbpedia.org/ontology/Star	http://xlore.org/concept/510	star@dbpedia	star@en@xlore	恒星@zh@xlore
+http://dbpedia.org/ontology/InlineHockeyLeague	http://xlore.org/concept/681460	inline hockey league@dbpedia	inline hockey league@en@xlore
+http://dbpedia.org/ontology/EurovisionSongContestEntry	Eurovision song contest entry@dbpedia
+http://dbpedia.org/ontology/Parish	http://xlore.org/concept/714982	parish@dbpedia	parish@en@xlore
+http://dbpedia.org/ontology/AmateurBoxer	amateur boxer@dbpedia
+http://dbpedia.org/ontology/BrownDwarf	brown dwarf@dbpedia
+http://dbpedia.org/ontology/Bone	bone@dbpedia
+http://dbpedia.org/ontology/BoxingStyle	boxing style@dbpedia
+http://dbpedia.org/ontology/Boxing	http://xlore.org/concept/213	boxing@dbpedia	boxing@en@xlore	拳击@zh@xlore
+http://dbpedia.org/ontology/Economist	http://xlore.org/concept/328	economist@dbpedia	economists@en@xlore	经济学家@zh@xlore
+http://dbpedia.org/ontology/HorseRiding	HorseRiding@dbpedia
+http://dbpedia.org/ontology/Convention	convention@dbpedia
+http://dbpedia.org/ontology/DocumentType	Document Type@dbpedia
+http://dbpedia.org/ontology/SpeedwayRider	http://xlore.org/concept/994573	speedway rider@dbpedia	speedway rider@en@xlore
+http://dbpedia.org/ontology/Gymnast	http://xlore.org/concept/9264	gymnast@dbpedia	gymnasts@en@xlore	体操运动员@zh@xlore
+http://dbpedia.org/ontology/ShoppingMall	http://xlore.org/concept/9791	shopping mall@dbpedia	shopping malls@en@xlore	商场@zh@xlore
+http://dbpedia.org/ontology/Journalist	http://xlore.org/concept/1342	journalist@dbpedia	journalists@en@xlore	记者@zh@xlore
+http://dbpedia.org/ontology/Painting	http://xlore.org/concept/267	Painting@dbpedia	Painting@en@xlore	绘画@zh@xlore
+http://dbpedia.org/ontology/OlympicResult	olympic result@dbpedia
+http://dbpedia.org/ontology/SportsTeamMember	Sports team member@dbpedia
+http://dbpedia.org/ontology/MilitaryUnit	military unit@dbpedia
+http://dbpedia.org/ontology/AnimangaCharacter	animanga character@dbpedia
+http://dbpedia.org/ontology/ComicsCharacter	http://xlore.org/concept/3928	comics character@dbpedia	comics characters@en@xlore	漫画角色@zh@xlore
+http://dbpedia.org/ontology/SoccerTournament	soccer tournoment@dbpedia
+http://dbpedia.org/ontology/Disease	disease@dbpedia
+http://dbpedia.org/ontology/Bullfighter	http://xlore.org/concept/209237	bullfighter@dbpedia	bullfighter@en@xlore
+http://dbpedia.org/ontology/Grape	http://xlore.org/concept/7180	grape@dbpedia	grape@en@xlore	葡萄@zh@xlore
+http://dbpedia.org/ontology/HistoricBuilding	historic building@dbpedia
+http://dbpedia.org/ontology/HorseTrainer	http://xlore.org/concept/33282	horse trainer@dbpedia	horse trainers@en@xlore	练马师@zh@xlore
+http://dbpedia.org/ontology/Canoeist	http://xlore.org/concept/50439	canoeist@dbpedia	canoeists@en@xlore	皮划艇运动员@zh@xlore
+http://dbpedia.org/ontology/Imdb	Imdb@dbpedia
+http://dbpedia.org/ontology/GeopoliticalOrganisation	geopolitical organisation@dbpedia
+http://dbpedia.org/ontology/MouseGene	MouseGene@dbpedia
+http://dbpedia.org/ontology/GrossDomesticProductPerCapita	gross domestic product per capita@dbpedia
+http://dbpedia.org/ontology/ElectionDiagram	Election Diagram@dbpedia
+http://dbpedia.org/ontology/Election	http://xlore.org/concept/9293	Election@dbpedia	Elections@en@xlore	选举@zh@xlore
+http://dbpedia.org/ontology/AmericanFootballTeam	http://xlore.org/concept/463002	american football team@dbpedia	american football team@en@xlore
+http://dbpedia.org/ontology/StillImage	still image@dbpedia
+http://dbpedia.org/ontology/Image	image@dbpedia
+http://dbpedia.org/ontology/GaelicGamesPlayer	Gaelic games player@dbpedia
+http://dbpedia.org/ontology/Skater	http://xlore.org/concept/611976	skater@dbpedia	skater@en@xlore
+http://dbpedia.org/ontology/Curler	http://xlore.org/concept/33569	curler@dbpedia	curlers@en@xlore	冰壶运动员@zh@xlore
+http://dbpedia.org/ontology/Garden	http://xlore.org/concept/63373	garden@dbpedia	gardens@en@xlore	庭园@zh@xlore
+http://dbpedia.org/ontology/ClassicalMusicArtist	classical music artist@dbpedia
+http://dbpedia.org/ontology/Professor	professor@dbpedia
+http://dbpedia.org/ontology/VicePresident	http://xlore.org/concept/64178	vice president@dbpedia	vice presidents@en@xlore	副总统@zh@xlore
+http://dbpedia.org/ontology/BaseballLeague	http://xlore.org/concept/960331	baseball league@dbpedia	baseball league@en@xlore
+http://dbpedia.org/ontology/HistoricalProvince	Historical province@dbpedia
+http://dbpedia.org/ontology/SpaceStation	http://xlore.org/concept/5947	space station@dbpedia	space stations@en@xlore	太空站@zh@xlore
+http://dbpedia.org/ontology/Constellation	http://xlore.org/concept/49	constellation@dbpedia	constellations@en@xlore	星座@zh@xlore
+http://dbpedia.org/ontology/Skier	http://xlore.org/concept/7129	skier@dbpedia	skiers@en@xlore	滑雪运动员@zh@xlore
+http://dbpedia.org/ontology/PoliticianSpouse	politician spouse@dbpedia
+http://dbpedia.org/ontology/PaintballLeague	http://xlore.org/concept/602019	paintball league@dbpedia	paintball league@en@xlore
+http://dbpedia.org/ontology/ClubMoss	club moss@dbpedia
+http://dbpedia.org/ontology/ClassicalMusicComposition	classical music composition@dbpedia
+http://dbpedia.org/ontology/LacrosseLeague	http://xlore.org/concept/1002559	lacrosse league@dbpedia	lacrosse league@en@xlore
+http://dbpedia.org/ontology/SerialKiller	http://xlore.org/concept/8624	serial killer@dbpedia	serial killers@en@xlore	连环杀手@zh@xlore
+http://dbpedia.org/ontology/Criminal	http://xlore.org/concept/10131	criminal@dbpedia	criminals@en@xlore	罪犯@zh@xlore
+http://dbpedia.org/ontology/OlympicEvent	olympic event@dbpedia
+http://dbpedia.org/ontology/ArtistDiscography	artist discography@dbpedia
+http://dbpedia.org/ontology/Abbey	abbey@dbpedia
+http://dbpedia.org/ontology/Demographics	http://xlore.org/concept/23581	demographics@dbpedia	demographics@en@xlore	人口统计学@zh@xlore
+http://dbpedia.org/ontology/FormulaOneRacing	formula one racing@dbpedia
+http://dbpedia.org/ontology/Linguist	http://xlore.org/concept/627926	linguist@dbpedia	linguist@en@xlore
+http://dbpedia.org/ontology/Sculptor	http://xlore.org/concept/79	sculptor@dbpedia	sculptors@en@xlore	雕塑家@zh@xlore
+http://dbpedia.org/ontology/Pope	http://xlore.org/concept/11604	pope@dbpedia	popes@en@xlore	教宗@zh@xlore
+http://dbpedia.org/ontology/ChemicalCompound	http://xlore.org/concept/1816	chemical compound@dbpedia	chemical compounds@en@xlore	化合物@zh@xlore
+http://dbpedia.org/ontology/Beer	http://xlore.org/concept/8164	beer@dbpedia	beer@en@xlore	啤酒@zh@xlore
+http://dbpedia.org/ontology/PeriodOfArtisticStyle	period of artistic style@dbpedia
+http://dbpedia.org/ontology/OverseasDepartment	overseas department@dbpedia
+http://dbpedia.org/ontology/AustralianFootballTeam	australian football team@dbpedia
+http://dbpedia.org/ontology/Intercommunality	Intercommunality@dbpedia
+http://dbpedia.org/ontology/NobleFamily	http://xlore.org/concept/46847	Noble family@dbpedia	Noble families@en@xlore	望族@zh@xlore
+http://dbpedia.org/ontology/WorldHeritageSite	http://xlore.org/concept/236	World Heritage Site@dbpedia	World Heritage Sites@en@xlore	世界遗产@zh@xlore
+http://dbpedia.org/ontology/Comic	http://xlore.org/concept/3908	comic@dbpedia	comics@en@xlore	漫画@zh@xlore
+http://dbpedia.org/ontology/AmericanFootballLeague	http://xlore.org/concept/764263	american football league@dbpedia	american football league@en@xlore
+http://dbpedia.org/ontology/AustralianFootballLeague	http://xlore.org/concept/1056038	australian football league@dbpedia	australian football league@en@xlore
+http://dbpedia.org/ontology/BroadcastNetwork	broadcast network@dbpedia
+http://dbpedia.org/ontology/NobelPrize	http://xlore.org/concept/107	Nobel Prize@dbpedia	Nobel Prize@en@xlore	诺贝尔奖@zh@xlore
+http://dbpedia.org/ontology/Marriage	http://xlore.org/concept/240	marriage@dbpedia	marriage@en@xlore	婚姻@zh@xlore
+http://dbpedia.org/ontology/HockeyTeam	hockey team@dbpedia
+http://dbpedia.org/ontology/Murderer	http://xlore.org/concept/49731	murderer@dbpedia	murderers@en@xlore	谋杀犯@zh@xlore
+http://dbpedia.org/ontology/Decoration	decoration@dbpedia
+http://dbpedia.org/ontology/WrestlingEvent	wrestling event@dbpedia
+http://dbpedia.org/ontology/Bridge	http://xlore.org/concept/24761	bridge@dbpedia	bridges@en@xlore	桥樑@zh@xlore
+http://dbpedia.org/ontology/Mountain	http://xlore.org/concept/3911	mountain@dbpedia	mountains@en@xlore	山峰@zh@xlore
+http://dbpedia.org/ontology/RollerCoaster	http://xlore.org/concept/586916	roller coaster@dbpedia	roller coaster@en@xlore
+http://dbpedia.org/ontology/CyclingRace	cycling race@dbpedia
+http://dbpedia.org/ontology/TrackList	track list@dbpedia
+http://dbpedia.org/ontology/List	http://xlore.org/concept/11507	list@dbpedia	lists@en@xlore	列表@zh@xlore
+http://dbpedia.org/ontology/Archive	http://xlore.org/concept/7496	Archive@dbpedia	Archives@en@xlore	档案@zh@xlore
+http://dbpedia.org/ontology/Lock	http://xlore.org/concept/7499	lock@dbpedia	locks@en@xlore	锁@zh@xlore
+http://dbpedia.org/ontology/Cave	http://xlore.org/concept/9328	cave@dbpedia	caves@en@xlore	洞穴@zh@xlore
+http://dbpedia.org/ontology/HandballTeam	handball team@dbpedia
+http://dbpedia.org/ontology/Humorist	http://xlore.org/concept/460102	humorist@dbpedia	humorist@en@xlore
+http://dbpedia.org/ontology/Website	http://xlore.org/concept/10441	website@dbpedia	websites@en@xlore	网站@zh@xlore
+http://dbpedia.org/ontology/Lymph	lymph@dbpedia
+http://dbpedia.org/ontology/TelevisionDirector	http://xlore.org/concept/979411	Television director@dbpedia	Television director@en@xlore
+http://dbpedia.org/ontology/ResearchProject	http://xlore.org/concept/34187	research project@dbpedia	research projects@en@xlore	研究计划@zh@xlore
+http://dbpedia.org/ontology/Locality	Locality@dbpedia
+http://dbpedia.org/ontology/Continent	http://xlore.org/concept/4568	continent@dbpedia	continents@en@xlore	大洲@zh@xlore
+http://dbpedia.org/ontology/Singer	http://xlore.org/concept/307640	Singer@dbpedia	Singer@en@xlore
+http://dbpedia.org/ontology/BaseballSeason	baseball season@dbpedia
+http://dbpedia.org/ontology/CricketTeam	http://xlore.org/concept/194026	cricket team@dbpedia	cricket team@en@xlore
+http://dbpedia.org/ontology/Arena	arena@dbpedia
+http://dbpedia.org/ontology/SoccerLeagueSeason	soccer league season@dbpedia
+http://dbpedia.org/ontology/DisneyCharacter	http://xlore.org/concept/42634	disney character@dbpedia	disney characters@en@xlore	迪士尼角色@zh@xlore
+http://dbpedia.org/ontology/Surname	http://xlore.org/concept/532977	surname@dbpedia	surname@en@xlore
+http://dbpedia.org/ontology/BoxingLeague	boxing league@dbpedia
+http://dbpedia.org/ontology/DistrictWaterBoard	district water board@dbpedia
+http://dbpedia.org/ontology/RadioControlledRacingLeague	radio-controlled racing league@dbpedia
+http://dbpedia.org/ontology/Fungus	http://xlore.org/concept/63	fungus@dbpedia	fungi@en@xlore	真菌@zh@xlore
+http://dbpedia.org/ontology/HistoricalCountry	Historical country@dbpedia
+http://dbpedia.org/ontology/Aircraft	http://xlore.org/concept/7725	aircraft@dbpedia	aircraft@en@xlore	航空器@zh@xlore
+http://dbpedia.org/ontology/State	http://xlore.org/concept/26215	state@dbpedia	states@en@xlore	州@zh@xlore
+http://dbpedia.org/ontology/Moss	http://xlore.org/concept/9731	moss@dbpedia	mosses@en@xlore	苔藓植物门@zh@xlore
+http://dbpedia.org/ontology/TennisLeague	tennis league@dbpedia
+http://dbpedia.org/ontology/River	http://xlore.org/concept/294	river@dbpedia	rivers@en@xlore	河流@zh@xlore
+http://dbpedia.org/ontology/Listen	Listen@dbpedia
+http://dbpedia.org/ontology/Temple	http://xlore.org/concept/338	temple@dbpedia	temples@en@xlore	寺庙@zh@xlore
+http://dbpedia.org/ontology/Cheese	http://xlore.org/concept/5946	cheese@dbpedia	cheese@en@xlore	干酪@zh@xlore
+http://dbpedia.org/ontology/HorseRider	horse rider@dbpedia
+http://dbpedia.org/ontology/Embryology	http://xlore.org/concept/90	embryology@dbpedia	embryology@en@xlore	胚胎学@zh@xlore
+http://dbpedia.org/ontology/Unknown	Unknown@dbpedia
+http://dbpedia.org/ontology/Publisher	http://xlore.org/concept/422713	publisher@dbpedia	publisher@en@xlore
+http://dbpedia.org/ontology/MultiVolumePublication	multi volume publication@dbpedia
+http://dbpedia.org/ontology/PlayWright	Playwright@dbpedia
+http://dbpedia.org/ontology/BoxingCategory	boxing category@dbpedia
+http://dbpedia.org/ontology/FormulaOneTeam	formula 1 team@dbpedia
+http://dbpedia.org/ontology/Resume	Resume@dbpedia
+http://dbpedia.org/ontology/ArtificialSatellite	ArtificialSatellite@dbpedia
+http://dbpedia.org/ontology/GreenAlga	http://xlore.org/concept/13546	green alga@dbpedia	green algae@en@xlore	绿藻@zh@xlore
+http://dbpedia.org/ontology/SkiResort	ski resort@dbpedia
+http://dbpedia.org/ontology/Athletics	athletics@dbpedia
+http://dbpedia.org/ontology/Memorial	memorial@dbpedia
+http://dbpedia.org/ontology/BaseballPlayer	http://xlore.org/concept/16979	baseball player@dbpedia	baseball players@en@xlore	棒球选手@zh@xlore
+http://dbpedia.org/ontology/Medician	medician@dbpedia
+http://dbpedia.org/ontology/RoadTunnel	http://xlore.org/concept/15791	road tunnel@dbpedia	road tunnels@en@xlore	公路隧道@zh@xlore
+http://dbpedia.org/ontology/NaturalRegion	http://xlore.org/concept/886739	natural region@dbpedia	natural region@en@xlore
+http://dbpedia.org/ontology/NationalFootballLeagueSeason	http://xlore.org/concept/780173	national football league season@dbpedia	national football league season@en@xlore
+http://dbpedia.org/ontology/Zoo	http://xlore.org/concept/10408	zoo@dbpedia	zoos@en@xlore	动物园@zh@xlore
+http://dbpedia.org/ontology/CultivatedVariety	cultivar (cultivated variety)@dbpedia
+http://dbpedia.org/ontology/Castle	http://xlore.org/concept/463	castle@dbpedia	castles@en@xlore	城堡@zh@xlore
+http://dbpedia.org/ontology/VicePrimeMinister	vice prime minister@dbpedia
+http://dbpedia.org/ontology/Mayor	http://xlore.org/concept/235809	mayor@dbpedia	mayor@en@xlore
+http://dbpedia.org/ontology/Photographer	http://xlore.org/concept/5487	photographer@dbpedia	photographers@en@xlore	摄影师@zh@xlore
+http://dbpedia.org/ontology/GolfCourse	golf course@dbpedia
+http://dbpedia.org/ontology/Dam	http://xlore.org/concept/44148	dam@dbpedia	dams@en@xlore	水坝@zh@xlore
+http://dbpedia.org/ontology/TelevisionStation	http://xlore.org/concept/2312	television station@dbpedia	television stations@en@xlore	电视台@zh@xlore
+http://dbpedia.org/ontology/CountrySeat	country estate@dbpedia
+http://dbpedia.org/ontology/Cyclist	http://xlore.org/concept/5179	cyclist@dbpedia	cyclists@en@xlore	单车选手@zh@xlore
+http://dbpedia.org/ontology/RugbyLeague	http://xlore.org/concept/26902	rugby league@dbpedia	rugby league@en@xlore	联盟式橄榄球@zh@xlore
+http://dbpedia.org/ontology/AmericanFootballCoach	american football coach@dbpedia
+http://dbpedia.org/ontology/Historian	http://xlore.org/concept/10790	historian@dbpedia	historians@en@xlore	历史学家@zh@xlore
+http://dbpedia.org/ontology/Asteroid	http://xlore.org/concept/469	asteroid@dbpedia	asteroids@en@xlore	小行星@zh@xlore
+http://dbpedia.org/ontology/Guitarist	http://xlore.org/concept/12790	guitarist@dbpedia	guitarists@en@xlore	结他手@zh@xlore
+http://dbpedia.org/ontology/Weapon	http://xlore.org/concept/39	weapon@dbpedia	weapons@en@xlore	武器@zh@xlore
+http://dbpedia.org/ontology/Polyhedron	Polyhedron@dbpedia
+http://dbpedia.org/ontology/Lake	http://xlore.org/concept/21	lake@dbpedia	lakes@en@xlore	湖泊@zh@xlore
+http://dbpedia.org/ontology/Lieutenant	lieutenant@dbpedia
+http://dbpedia.org/ontology/Host	host@dbpedia
+http://dbpedia.org/ontology/Celebrity	http://xlore.org/concept/65105	celebrity@dbpedia	celebrity@en@xlore	名媛@zh@xlore
+http://dbpedia.org/ontology/Letter	letter@dbpedia
+http://dbpedia.org/ontology/Noble	noble@dbpedia
+http://dbpedia.org/ontology/Lighthouse	http://xlore.org/concept/9340	lighthouse@dbpedia	lighthouses@en@xlore	灯塔@zh@xlore
+http://dbpedia.org/ontology/MicroRegion	micro-region@dbpedia
+http://dbpedia.org/ontology/MemberOfParliament	member of parliament@dbpedia
+http://dbpedia.org/ontology/WineRegion	http://xlore.org/concept/851469	wine region@dbpedia	wine region@en@xlore
+http://dbpedia.org/ontology/SolarEclipse	http://xlore.org/concept/2267	solar eclipse@dbpedia	solar eclipses@en@xlore	日食@zh@xlore
+http://dbpedia.org/ontology/Deity	http://xlore.org/concept/1020240	deity@dbpedia	deity@en@xlore
+http://dbpedia.org/ontology/RailwayStation	train station@dbpedia
+http://dbpedia.org/ontology/Poet	http://xlore.org/concept/287	poet@dbpedia	poets@en@xlore	诗人@zh@xlore
+http://dbpedia.org/ontology/ChristianBishop	Christian Bishop@dbpedia
+http://dbpedia.org/ontology/PoloLeague	polo league@dbpedia
+http://dbpedia.org/ontology/AutoRacingLeague	auto racing league@dbpedia
+http://dbpedia.org/ontology/HistoricPlace	historic place@dbpedia
+http://dbpedia.org/ontology/Depth	depth@dbpedia
+http://dbpedia.org/ontology/TelevisionHost	television host@dbpedia
+http://dbpedia.org/ontology/Manhua	http://xlore.org/concept/7786	manhua@dbpedia	manhua@en@xlore	中国漫画@zh@xlore
+http://dbpedia.org/ontology/WaterTower	http://xlore.org/concept/714064	Water tower@dbpedia	Water tower@en@xlore
+http://dbpedia.org/ontology/PolishKing	king of Poland@dbpedia
+http://dbpedia.org/ontology/MythologicalFigure	mythological figure@dbpedia
+http://dbpedia.org/ontology/HistoricalRegion	http://xlore.org/concept/24800	Historical region@dbpedia	Historical regions@en@xlore	历史地区@zh@xlore
+http://dbpedia.org/ontology/Astronaut	http://xlore.org/concept/10600	astronaut@dbpedia	astronauts@en@xlore	宇航员@zh@xlore
+http://dbpedia.org/ontology/MixedMartialArtsLeague	mixed martial arts league@dbpedia
+http://dbpedia.org/ontology/MovingImage	moving image@dbpedia
+http://dbpedia.org/ontology/TermOfOffice	term of office@dbpedia
+http://dbpedia.org/ontology/HumanDevelopmentIndex	http://xlore.org/concept/577837	human development index@dbpedia	human development index@en@xlore
+http://dbpedia.org/ontology/Bodybuilder	http://xlore.org/concept/28634	bodybuilder@dbpedia	bodybuilders@en@xlore	健美运动员@zh@xlore
+http://dbpedia.org/ontology/Single	single@dbpedia
+http://dbpedia.org/ontology/SoftballLeague	softball league@dbpedia
+http://dbpedia.org/ontology/Casino	casino@dbpedia
+http://dbpedia.org/ontology/RaceHorse	race horse@dbpedia
+http://dbpedia.org/ontology/Contest	contest@dbpedia
+http://dbpedia.org/ontology/Spacecraft	http://xlore.org/concept/8122	spacecraft@dbpedia	spacecraft@en@xlore	航天器@zh@xlore
+http://dbpedia.org/ontology/RadioHost	radio host@dbpedia
+http://dbpedia.org/ontology/MixedMartialArtsEvent	http://xlore.org/concept/257509	mixed martial arts event@dbpedia	mixed martial arts event@en@xlore
+http://dbpedia.org/ontology/VideoGame	http://xlore.org/concept/8118	video game@dbpedia	video games@en@xlore	电子游戏@zh@xlore
+http://dbpedia.org/ontology/Governor	governor@dbpedia
+http://dbpedia.org/ontology/TradeUnion	http://xlore.org/concept/26430	trade union@dbpedia	trade unions@en@xlore	劳工团体@zh@xlore
+http://dbpedia.org/ontology/OfficeHolder	office holder@dbpedia
+http://dbpedia.org/ontology/MilitaryStructure	military structure@dbpedia
+http://dbpedia.org/ontology/CricketLeague	http://xlore.org/concept/401481	cricket league@dbpedia	cricket league@en@xlore
+http://dbpedia.org/ontology/RugbyClub	rugby club@dbpedia
+http://dbpedia.org/ontology/MountainRange	http://xlore.org/concept/376886	mountain range@dbpedia	mountain range@en@xlore
+http://dbpedia.org/ontology/AustralianRulesFootballPlayer	Australian rules football player@dbpedia
+http://dbpedia.org/ontology/BasketballPlayer	http://xlore.org/concept/114	basketball player@dbpedia	basketball players@en@xlore	篮球运动员@zh@xlore
+http://dbpedia.org/ontology/Chancellor	chancellor@dbpedia
+http://dbpedia.org/ontology/Crustacean	http://xlore.org/concept/4748	crustacean@dbpedia	crustaceans@en@xlore	甲壳纲@zh@xlore
+http://dbpedia.org/ontology/MusicDirector	http://xlore.org/concept/707788	music director@dbpedia	music director@en@xlore
+http://dbpedia.org/ontology/Cycad	http://xlore.org/concept/498398	cycad@dbpedia	cycad@en@xlore
