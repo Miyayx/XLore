@@ -62,7 +62,7 @@ class EnwikiFirstImage(FirstImage):
                 f.write('%s\t%s\n'%(title.decode('utf-8'),image ))
                 f.flush()
     
-    def generate_ttl(self):
+    def generate_ttl(self, images):
         with open(self.ttl,'w') as f:
             f.write('@base <http://xlore.org/instance/> .\n')
             f.write('@prefix property: <http://xlore.org/property#> .\n')

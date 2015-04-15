@@ -47,7 +47,7 @@ def crawl(i, title):
             else:
                 return
         mutex.acquire()
-        if imgurl and len(imgurl) > 0:
+        if imgurl and len(imgurl) > 0 and not '/404_s.jpg' in imgurl and not '/404_140.jpg' in imgurl and not 'www.hudong.com' in imgurl:
             print imgurl
             fo.write('%s property:hasIcon "%s"@hudong .\n'%(i,imgurl))
             fo.flush()
