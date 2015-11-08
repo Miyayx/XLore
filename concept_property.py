@@ -1,13 +1,12 @@
 # -*- coding=utf-8 -*-
 
 import os
-
-DIR = "/home/xlore/Xlore/etc/ttl"
-CONCEPT_INSTANCE = os.path.join(DIR,"xlore.taxonomy.ttl")
-INSTANCE_PROPERTY = os.path.join(DIR,"xlore.instance.infobox.ttl")
-CONCEPT_PROPERTY_FREQUENCY = os.path.join(DIR,"xlore.concept.property.frequency.dat")
-
 import codecs
+
+DIR = "/home/xlore/XloreData/etc/ttl"
+CONCEPT_INSTANCE = os.path.join(DIR, "xlore.taxonomy.ttl")
+INSTANCE_PROPERTY = os.path.join(DIR, "xlore.instance.infobox.ttl")
+CONCEPT_PROPERTY_FREQUENCY = os.path.join(DIR, "xlore.concept.property.frequency.dat")
 
 ins_pro = {} #k:ins id, v: pro id list
 domain_pro = {}
