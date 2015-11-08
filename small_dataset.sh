@@ -4,7 +4,7 @@ N1=50000
 N2=50000
 N3=10000
 
-SMALL_DIR="/home/lmy/Xlore/data/small/"
+SMALL_DIR="/home/lmy/XLore/data/small/"
 INSTANCE="xlore.instance.list.small.ttl"
 CONCEPT="xlore.concept.list.small.ttl"
 PROPERTY="xlore.property.list.small.ttl"
@@ -12,19 +12,20 @@ INFOBOX="xlore.instance.infobox.small.ttl"
 TAXONOMY="xlore.taxonomy.small.ttl"
 REFERENCE="xlore.instance.reference.small.ttl"
 URL="xlore.instance.url.small.ttl"
-MENTION="xlore.instance.mention.small.ttl"
+MENTION="xlore.instance.comment.small.ttl"
 
 ALL_DIR="/home/xlore/XloreData/etc/ttl/"
 INSTANCE_ALL="xlore.instance.list.ttl"
-CONCEPT_ALL="xlore.concept.list.ttl"
-PROPERTY_ALL="xlore.property.list.ttl"
-INFOBOX_ALL="xlore.instance.infobox.ttl"
-TAXONOMY_ALL="xlore.taxonomy.ttl"
+CONCEPT_ALL="xlore.concept.list.ttl2"
+PROPERTY_ALL="xlore.property.list.ttl8"
+INFOBOX_ALL="xlore.instance.infobox.ttl7"
+TAXONOMY_ALL="xlore.taxonomy.ttl2"
 REFERENCE_ALL="xlore.instance.reference.ttl"
 URL_ALL="xlore.instance.url.ttl"
-MENTION_ALL="xlore.instance.mention.ttl"
+MENTION_ALL="xlore.instance.comment.ttl"
 
 # instance list
+echo $SMALL_DIR$INSTANCE
 > $SMALL_DIR$INSTANCE
 for i in $(seq $N1); do
     grep "^<$i>" $ALL_DIR$INSTANCE_ALL >> $SMALL_DIR$INSTANCE
