@@ -52,6 +52,16 @@ def read_items(fn):
         d[_id] = p
     return d
 
+def get_label(item):
+    label = ''
+    if item.zh and item.en:
+        label += (item.zh+'#'+item.en)
+    elif item.zh:
+        label += item.zh
+    else:
+        label += str(item.en)
+
+
 class Graph:
     def __init__(self, confn, propfn, con_prop_fn, taxonomy_fn):
         self.graph = self.generate_graph(confn, propfn, con_prop_fn, taxonomy_fn)
@@ -124,22 +134,10 @@ class Graph:
 
         nodes = []
         for c in cons:
-            clabel = ''
-            if c.zh and c.en:
-                clabel += (c.zh+'#'+c.en)
-            elif c.zh:
-                clabel += c.zh
-            else:
-                clabel += str(c.en)
+            clabel = get_label(c)
             nodes.append({"name":clabel, "group":"concept"})
         for p in props:
-            plabel = ''
-            if p.zh and p.en:
-                plabel += (p.zh+'#'+p.en)
-            elif p.zh:
-                plabel += p.zh
-            else:
-                plabel += str(p.en)
+            plabel = get_label(p)
             print plabel,p.size
             nodes.append({"name":plabel, "group":"property"})
         
@@ -156,6 +154,27 @@ class Graph:
         fw.close()
         return subgraph
 
+    def get_classgraph(self, keyword_id, level):
+        #fw = open("concept_%s.json"%keyword_id, 'w')
+        subgraph = self.graph.get(keyword_id, None)
+        queue = [(subgraph, 0)]
+        cons = []
+        while queue:
+             con, level = queue.pop(0)
+             if level == 4:
+                 break
+             if len(cons) == level:
+                 cons.append([])
+             cons[level].append(con)
+             for node in root.children:
+                 queue.append((node, level+1))
+
+        for con in cons:
+            print ','.join([get_label(c) for c in con])
+
+        #fw.write(str(j))
+        #fw.close()
+        #return subgraph
 
 if __name__ == '__main__':
     start = time.time()
